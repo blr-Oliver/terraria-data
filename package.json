@@ -2,9 +2,11 @@
   "name": "terraria-data",
   "version": "0.0.1",
   "description": "Terraria data in JSON format",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/types.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",

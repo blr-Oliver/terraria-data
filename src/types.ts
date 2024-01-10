@@ -1,8 +1,8 @@
-import {ItemCard, ItemMetaInfo} from './items';
+import {ItemCard, ItemMetaInfo} from './typings/items';
 
-export * from './items';
-export * from './prefixes';
-export * from './varying';
+export * from './typings/items';
+export * from './typings/prefixes';
+export * from './typings/varying';
 
 export type NameMapping<T> = { [name: string]: T };
 
