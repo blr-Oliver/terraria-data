@@ -1,0 +1,9187 @@
+{
+  "Abigail's Flower": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Abigail%27s_Flower",
+    "pageTitle": "Abigail's Flower",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Adamantite Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Chainsaw",
+    "pageTitle": "Adamantite Chainsaw"
+  },
+  "Adamantite Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Drill",
+    "pageTitle": "Adamantite Drill"
+  },
+  "Adamantite Glaive": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Glaive",
+    "pageTitle": "Adamantite Glaive",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Adamantite Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Pickaxe",
+    "pageTitle": "Adamantite Pickaxe"
+  },
+  "Adamantite Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Repeater",
+    "pageTitle": "Adamantite Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Adamantite Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Sword",
+    "pageTitle": "Adamantite Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Adamantite Waraxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Adamantite_Waraxe",
+    "pageTitle": "Adamantite Waraxe"
+  },
+  "Aerial Bane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Aerial_Bane",
+    "pageTitle": "Aerial Bane",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Ale Tosser": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ale_Tosser",
+    "pageTitle": "Ale Tosser",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Amarok": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Amarok",
+    "pageTitle": "Amarok",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Amazon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Amazon",
+    "pageTitle": "Amazon",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Amber Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Amber_Staff",
+    "pageTitle": "Amber Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Amethyst Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Amethyst_Staff",
+    "pageTitle": "Amethyst Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Anchor": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Anchor",
+    "pageTitle": "Anchor",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Launched"
+    ]
+  },
+  "Aqua Scepter": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Aqua_Scepter",
+    "pageTitle": "Aqua Scepter",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Arkhalis": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Arkhalis",
+    "pageTitle": "Arkhalis",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Artery": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Artery",
+    "pageTitle": "Artery",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Ash Wood Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ash_Wood_Bow",
+    "pageTitle": "Ash Wood Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Ash Wood Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ash_Wood_Hammer",
+    "pageTitle": "Ash Wood Hammer"
+  },
+  "Ash Wood Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ash_Wood_Sword",
+    "pageTitle": "Ash Wood Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Axe of Regrowth": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Axe_of_Regrowth",
+    "pageTitle": "Axe of Regrowth"
+  },
+  "Ball O' Hurt": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ball_O%27_Hurt",
+    "pageTitle": "Ball O' Hurt",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Ballista Cane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Ballista sentry summons",
+    "page": "/wiki/Ballista_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Ballista Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Ballista sentry summons",
+    "page": "/wiki/Ballista_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Pre-Hardmode Sentry-Summoning weapons ((Desktop, Console and Mobile versions))",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Ballista Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Ballista sentry summons",
+    "page": "/wiki/Ballista_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Ballista sentry summons": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ballista_sentry_summons",
+    "pageTitle": "Ballista sentry summons"
+  },
+  "Bananarang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bananarang",
+    "pageTitle": "Bananarang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Hardmode Boomerangs"
+    ]
+  },
+  "Bat Bat": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bat_Bat",
+    "pageTitle": "Bat Bat",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Bat Scepter": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bat_Scepter",
+    "pageTitle": "Bat Scepter",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Beam Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Beam_Sword",
+    "pageTitle": "Beam Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Bee Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bee_Gun",
+    "pageTitle": "Bee Gun",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Pre-Hardmode Magic Guns"
+    ]
+  },
+  "Bee Keeper": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bee_Keeper",
+    "pageTitle": "Bee Keeper",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Beenade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Beenade",
+    "pageTitle": "Beenade",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables",
+      "Grenades"
+    ]
+  },
+  "Betsy's Wrath": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Betsy%27s_Wrath",
+    "pageTitle": "Betsy's Wrath",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Blade Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Blade_Staff",
+    "pageTitle": "Blade Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Blade of Grass": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blade_of_Grass",
+    "pageTitle": "Blade of Grass",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Bladed Glove": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bladed_Glove",
+    "pageTitle": "Bladed Glove",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Bladetongue": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bladetongue",
+    "pageTitle": "Bladetongue",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Blizzard Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blizzard_Staff",
+    "pageTitle": "Blizzard Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Blood Butcherer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blood_Butcherer",
+    "pageTitle": "Blood Butcherer",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Blood Lust Cluster": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blood_Lust_Cluster",
+    "pageTitle": "Blood Lust Cluster"
+  },
+  "Blood Rain Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Blood_Rain_Bow",
+    "pageTitle": "Blood Rain Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Blood Thorn": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Blood_Thorn",
+    "pageTitle": "Blood Thorn",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Blood Water": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Thrown_Water",
+    "pageTitle": "Thrown Water",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Other weapons"
+    ]
+  },
+  "Bloody Machete": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bloody_Machete",
+    "pageTitle": "Bloody Machete",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Blowgun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blowgun",
+    "pageTitle": "Blowgun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Blowpipe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blowpipe",
+    "pageTitle": "Blowpipe",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Blue Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Blue Moon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Blue_Moon",
+    "pageTitle": "Blue Moon",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Blue Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Blue Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bomb",
+    "pageTitle": "Bomb",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Bomb Fish": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bomb_Fish",
+    "pageTitle": "Bomb Fish",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Bone": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bone",
+    "pageTitle": "Bone",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Bone Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bone_Arrow",
+    "pageTitle": "Bone Arrow"
+  },
+  "Bone Javelin": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bone_Javelin",
+    "pageTitle": "Bone Javelin",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Bone Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bone_Pickaxe",
+    "pageTitle": "Bone Pickaxe"
+  },
+  "Bone Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bone_Sword",
+    "pageTitle": "Bone Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Bone Throwing Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bone_Throwing_Knife",
+    "pageTitle": "Bone Throwing Knife",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Book of Skulls": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Book_of_Skulls",
+    "pageTitle": "Book of Skulls",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Pre-Hardmode Spell books"
+    ]
+  },
+  "Boomstick": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Boomstick",
+    "pageTitle": "Boomstick",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Boreal Wood Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Boreal_Wood_Bow",
+    "pageTitle": "Boreal Wood Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Boreal Wood Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Boreal_Wood_Hammer",
+    "pageTitle": "Boreal Wood Hammer"
+  },
+  "Boreal Wood Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Boreal_Wood_Sword",
+    "pageTitle": "Boreal Wood Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Boring Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Boring_Bow",
+    "pageTitle": "Boring Bow",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Unimplemented weapons"
+    ]
+  },
+  "Bouncy Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bouncy_Bomb",
+    "pageTitle": "Bouncy Bomb",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Bouncy Dynamite": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bouncy_Dynamite",
+    "pageTitle": "Bouncy Dynamite",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Bouncy Grenade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Bouncy_Grenade",
+    "pageTitle": "Bouncy Grenade",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables",
+      "Grenades"
+    ]
+  },
+  "Brand of the Inferno": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Brand_of_the_Inferno",
+    "pageTitle": "Brand of the Inferno",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Breaker Blade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Breaker_Blade",
+    "pageTitle": "Breaker Blade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Breathing Reed": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Breathing_Reed",
+    "pageTitle": "Breathing Reed",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Bubble Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bubble_Gun",
+    "pageTitle": "Bubble Gun",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Bunny Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Bunny_Cannon",
+    "pageTitle": "Bunny Cannon",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Placeable weapons",
+      "Hardmode Placeable Weapons"
+    ]
+  },
+  "Butcher's Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Butcher%27s_Chainsaw",
+    "pageTitle": "Butcher's Chainsaw"
+  },
+  "Cactus Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cactus_Pickaxe",
+    "pageTitle": "Cactus Pickaxe"
+  },
+  "Cactus Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cactus_Sword",
+    "pageTitle": "Cactus Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Candy Cane Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Candy_Cane_Pickaxe",
+    "pageTitle": "Candy Cane Pickaxe"
+  },
+  "Candy Cane Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Candy_Cane_Sword",
+    "pageTitle": "Candy Cane Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Candy Corn Rifle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Candy_Corn_Rifle",
+    "pageTitle": "Candy Corn Rifle",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cannon",
+    "pageTitle": "Cannon",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Placeable weapons",
+      "Hardmode Placeable Weapons"
+    ]
+  },
+  "Cascade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Cascade",
+    "pageTitle": "Cascade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Celebration": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Celebration",
+    "pageTitle": "Celebration",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Celebration Mk2": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Celebration_Mk2",
+    "pageTitle": "Celebration Mk2",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Chain Guillotines": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Chain_Guillotines",
+    "pageTitle": "Chain Guillotines",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Launched"
+    ]
+  },
+  "Chain Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chain_Gun",
+    "pageTitle": "Chain Gun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Chain Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chain_Knife",
+    "pageTitle": "Chain Knife",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Launched"
+    ]
+  },
+  "Charged Blaster Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Charged_Blaster_Cannon",
+    "pageTitle": "Charged Blaster Cannon",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Chik": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Chik",
+    "pageTitle": "Chik",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Chlorophyte Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Arrow",
+    "pageTitle": "Chlorophyte Arrow"
+  },
+  "Chlorophyte Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Bullet",
+    "pageTitle": "Chlorophyte Bullet"
+  },
+  "Chlorophyte Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Chainsaw",
+    "pageTitle": "Chlorophyte Chainsaw"
+  },
+  "Chlorophyte Claymore": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Claymore",
+    "pageTitle": "Chlorophyte Claymore",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Chlorophyte Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Drill",
+    "pageTitle": "Chlorophyte Drill"
+  },
+  "Chlorophyte Greataxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Greataxe",
+    "pageTitle": "Chlorophyte Greataxe"
+  },
+  "Chlorophyte Jackhammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Jackhammer",
+    "pageTitle": "Chlorophyte Jackhammer"
+  },
+  "Chlorophyte Partisan": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Partisan",
+    "pageTitle": "Chlorophyte Partisan",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Chlorophyte Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Pickaxe",
+    "pageTitle": "Chlorophyte Pickaxe"
+  },
+  "Chlorophyte Saber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Saber",
+    "pageTitle": "Chlorophyte Saber",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Chlorophyte Shotbow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Shotbow",
+    "pageTitle": "Chlorophyte Shotbow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Chlorophyte Warhammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Chlorophyte_Warhammer",
+    "pageTitle": "Chlorophyte Warhammer"
+  },
+  "Christmas Tree Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Christmas_Tree_Sword",
+    "pageTitle": "Christmas Tree Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Classy Cane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Classy_Cane",
+    "pageTitle": "Classy Cane",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Clinger Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Clinger_Staff",
+    "pageTitle": "Clinger Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Clockwork Assault Rifle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Clockwork_Assault_Rifle",
+    "pageTitle": "Clockwork Assault Rifle",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Cluster Rocket I": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Cluster_Rocket_I",
+    "pageTitle": "Cluster Rocket I"
+  },
+  "Cluster Rocket II": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Cluster_Rocket_II",
+    "pageTitle": "Cluster Rocket II"
+  },
+  "Cobalt Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Chainsaw",
+    "pageTitle": "Cobalt Chainsaw"
+  },
+  "Cobalt Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Drill",
+    "pageTitle": "Cobalt Drill"
+  },
+  "Cobalt Naginata": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Naginata",
+    "pageTitle": "Cobalt Naginata",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Cobalt Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Pickaxe",
+    "pageTitle": "Cobalt Pickaxe"
+  },
+  "Cobalt Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Repeater",
+    "pageTitle": "Cobalt Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Cobalt Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Sword",
+    "pageTitle": "Cobalt Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Cobalt Waraxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cobalt_Waraxe",
+    "pageTitle": "Cobalt Waraxe"
+  },
+  "Code 1": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Code_1",
+    "pageTitle": "Code 1",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Code 2": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Code_2",
+    "pageTitle": "Code 2",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Coin Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Coin_Gun",
+    "pageTitle": "Coin Gun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Combat Wrench": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Combat_Wrench",
+    "pageTitle": "Combat Wrench",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Cool Whip": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Cool_Whip",
+    "pageTitle": "Cool Whip",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Hardmode Whips"
+    ]
+  },
+  "Copper Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Copper_Axe",
+    "pageTitle": "Copper Axe"
+  },
+  "Copper Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Copper_Bow",
+    "pageTitle": "Copper Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Copper Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Copper_Broadsword",
+    "pageTitle": "Copper Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Copper Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Copper_Hammer",
+    "pageTitle": "Copper Hammer"
+  },
+  "Copper Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Copper_Pickaxe",
+    "pageTitle": "Copper Pickaxe"
+  },
+  "Copper Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Copper_Shortsword",
+    "pageTitle": "Copper Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Crimson Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Crimson_Rod",
+    "pageTitle": "Crimson Rod",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Pre-Hardmode Other"
+    ]
+  },
+  "Crystal Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Crystal_Bullet",
+    "pageTitle": "Crystal Bullet"
+  },
+  "Crystal Dart": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Crystal_Dart",
+    "pageTitle": "Crystal Dart"
+  },
+  "Crystal Serpent": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Crystal_Serpent",
+    "pageTitle": "Crystal Serpent",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Crystal Storm": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Crystal_Storm",
+    "pageTitle": "Crystal Storm",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Hardmode Spell books"
+    ]
+  },
+  "Crystal Vile Shard": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Crystal_Vile_Shard",
+    "pageTitle": "Crystal Vile Shard",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Cursed Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cursed_Arrow",
+    "pageTitle": "Cursed Arrow"
+  },
+  "Cursed Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cursed_Bullet",
+    "pageTitle": "Cursed Bullet"
+  },
+  "Cursed Dart": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Cursed_Dart",
+    "pageTitle": "Cursed Dart"
+  },
+  "Cursed Flames": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cursed_Flames",
+    "pageTitle": "Cursed Flames",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Hardmode Spell books"
+    ]
+  },
+  "Cursed Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Cutlass": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Cutlass",
+    "pageTitle": "Cutlass",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Daedalus Stormbow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Daedalus_Stormbow",
+    "pageTitle": "Daedalus Stormbow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Dao of Pow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Dao_of_Pow",
+    "pageTitle": "Dao of Pow",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Dark Harvest": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Dark_Harvest",
+    "pageTitle": "Dark Harvest",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Hardmode Whips"
+    ]
+  },
+  "Dark Lance": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Dark_Lance",
+    "pageTitle": "Dark Lance",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Pre-Hardmode Spears"
+    ]
+  },
+  "Dart Pistol": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Dart_Pistol",
+    "pageTitle": "Dart Pistol",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Dart Rifle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Dart_Rifle",
+    "pageTitle": "Dart Rifle",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Daybreak": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Daybreak",
+    "pageTitle": "Daybreak",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Deadly Sphere Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Deadly_Sphere_Staff",
+    "pageTitle": "Deadly Sphere Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Death Sickle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Death_Sickle",
+    "pageTitle": "Death Sickle",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Deathbringer Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Deathbringer_Pickaxe",
+    "pageTitle": "Deathbringer Pickaxe"
+  },
+  "Demon Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Demon_Bow",
+    "pageTitle": "Demon Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Demon Scythe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Demon_Scythe",
+    "pageTitle": "Demon Scythe",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Pre-Hardmode Spell books"
+    ]
+  },
+  "Desert Tiger Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Desert_Tiger_Staff",
+    "pageTitle": "Desert Tiger Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Diamond Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Diamond_Staff",
+    "pageTitle": "Diamond Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Dirt Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Dirt_Bomb",
+    "pageTitle": "Dirt Bomb"
+  },
+  "Drax": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Drax",
+    "pageTitle": "Drax"
+  },
+  "Drippler Crippler": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Drippler_Crippler",
+    "pageTitle": "Drippler Crippler",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Dry Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_bombs",
+    "pageTitle": "Liquid bombs"
+  },
+  "Dry Rocket": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_rockets",
+    "pageTitle": "Liquid rockets"
+  },
+  "Durendal": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Durendal",
+    "pageTitle": "Durendal",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Hardmode Whips"
+    ]
+  },
+  "Dynamite": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Dynamite",
+    "pageTitle": "Dynamite",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Ebonwood Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ebonwood_Bow",
+    "pageTitle": "Ebonwood Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Ebonwood Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ebonwood_Hammer",
+    "pageTitle": "Ebonwood Hammer"
+  },
+  "Ebonwood Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ebonwood_Sword",
+    "pageTitle": "Ebonwood Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Egg Cannon": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Egg_Cannon",
+    "pageTitle": "Egg Cannon",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Electrosphere Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Electrosphere_Launcher",
+    "pageTitle": "Electrosphere Launcher",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Elf Melter": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Elf_Melter",
+    "pageTitle": "Elf Melter",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Emerald Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Emerald_Staff",
+    "pageTitle": "Emerald Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Enchanted Boomerang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Enchanted_Boomerang",
+    "pageTitle": "Enchanted Boomerang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Enchanted Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Enchanted_Sword",
+    "pageTitle": "Enchanted Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Endless Musket Pouch": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Endless_Musket_Pouch",
+    "pageTitle": "Endless Musket Pouch"
+  },
+  "Endless Quiver": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Endless_Quiver",
+    "pageTitle": "Endless Quiver"
+  },
+  "Etherian Javelin": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Etherian_Javelin",
+    "pageTitle": "Etherian Javelin",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Unimplemented weapons"
+    ]
+  },
+  "Eventide": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Eventide",
+    "pageTitle": "Eventide",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Excalibur": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Excalibur",
+    "pageTitle": "Excalibur",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Exotic Scimitar": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Exotic_Scimitar",
+    "pageTitle": "Exotic Scimitar",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Exploding Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Exploding_Bullet",
+    "pageTitle": "Exploding Bullet"
+  },
+  "Explosive Trap Cane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Explosive Trap sentry summons",
+    "page": "/wiki/Explosive_Trap_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Explosive Trap Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Explosive Trap sentry summons",
+    "page": "/wiki/Explosive_Trap_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Pre-Hardmode Sentry-Summoning weapons ((Desktop, Console and Mobile versions))",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Explosive Trap Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Explosive Trap sentry summons",
+    "page": "/wiki/Explosive_Trap_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Explosive Trap sentry summons": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Explosive_Trap_sentry_summons",
+    "pageTitle": "Explosive Trap sentry summons"
+  },
+  "Falcon Blade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Falcon_Blade",
+    "pageTitle": "Falcon Blade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Fetid Baghnakhs": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Fetid_Baghnakhs",
+    "pageTitle": "Fetid Baghnakhs",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Finch Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Finch_Staff",
+    "pageTitle": "Finch Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Firecracker": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Firecracker",
+    "pageTitle": "Firecracker",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Hardmode Whips"
+    ]
+  },
+  "First Fractal": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/First_Fractal",
+    "pageTitle": "First Fractal",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Unimplemented weapons"
+    ]
+  },
+  "Flairon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flairon",
+    "pageTitle": "Flairon",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Launched"
+    ]
+  },
+  "Flamarang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flamarang",
+    "pageTitle": "Flamarang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Flameburst Cane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Flameburst sentry summons",
+    "page": "/wiki/Flameburst_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Flameburst Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Flameburst sentry summons",
+    "page": "/wiki/Flameburst_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Pre-Hardmode Sentry-Summoning weapons ((Desktop, Console and Mobile versions))",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Flameburst Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Flameburst sentry summons",
+    "page": "/wiki/Flameburst_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Flameburst sentry summons": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flameburst_sentry_summons",
+    "pageTitle": "Flameburst sentry summons"
+  },
+  "Flamelash": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flamelash",
+    "pageTitle": "Flamelash",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Flamethrower": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flamethrower",
+    "pageTitle": "Flamethrower",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Flaming Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flaming_Arrow",
+    "pageTitle": "Flaming Arrow"
+  },
+  "Flaming Mace": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flaming_Mace",
+    "pageTitle": "Flaming Mace",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Flare Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flare_Gun",
+    "pageTitle": "Flare Gun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Flares": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Flesh Grinder": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flesh_Grinder",
+    "pageTitle": "Flesh Grinder"
+  },
+  "Flintlock Pistol": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flintlock_Pistol",
+    "pageTitle": "Flintlock Pistol",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Flinx Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flinx_Staff",
+    "pageTitle": "Flinx Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Flower Pow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flower_Pow",
+    "pageTitle": "Flower Pow",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Flower of Fire": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flower_of_Fire",
+    "pageTitle": "Flower of Fire",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Flower of Frost": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Flower_of_Frost",
+    "pageTitle": "Flower of Frost",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Flying Dragon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flying_Dragon",
+    "pageTitle": "Flying Dragon",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Flying Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flying_Knife",
+    "pageTitle": "Flying Knife",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Hardmode Boomerangs"
+    ]
+  },
+  "Flymeal": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flymeal",
+    "pageTitle": "Flymeal",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Format:C": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Format:C",
+    "pageTitle": "Format:C",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Fossil Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Fossil_Pickaxe",
+    "pageTitle": "Fossil Pickaxe"
+  },
+  "Frost Daggerfish": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Frost_Daggerfish",
+    "pageTitle": "Frost Daggerfish",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Frost Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Frost_Staff",
+    "pageTitle": "Frost Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Frostbrand": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Frostbrand",
+    "pageTitle": "Frostbrand",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Frostburn Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Frostburn_Arrow",
+    "pageTitle": "Frostburn Arrow"
+  },
+  "Fruitcake Chakram": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Fruitcake_Chakram",
+    "pageTitle": "Fruitcake Chakram",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Gatligator": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Gatligator",
+    "pageTitle": "Gatligator",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Ghastly Glaive": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ghastly_Glaive",
+    "pageTitle": "Ghastly Glaive",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Gladius": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Gladius",
+    "pageTitle": "Gladius",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Gold Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gold_Axe",
+    "pageTitle": "Gold Axe"
+  },
+  "Gold Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gold_Bow",
+    "pageTitle": "Gold Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Gold Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gold_Broadsword",
+    "pageTitle": "Gold Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Gold Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gold_Hammer",
+    "pageTitle": "Gold Hammer"
+  },
+  "Gold Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gold_Pickaxe",
+    "pageTitle": "Gold Pickaxe"
+  },
+  "Gold Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gold_Shortsword",
+    "pageTitle": "Gold Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Golden Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Golden_Bullet",
+    "pageTitle": "Golden Bullet"
+  },
+  "Golden Shower": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Golden_Shower",
+    "pageTitle": "Golden Shower",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Hardmode Spell books"
+    ]
+  },
+  "Golem Fist": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Golem_Fist",
+    "pageTitle": "Golem Fist",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Launched"
+    ]
+  },
+  "Gradient": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Gradient",
+    "pageTitle": "Gradient",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Gravedigger's Shovel": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Gravedigger%27s_Shovel",
+    "pageTitle": "Gravedigger's Shovel"
+  },
+  "Gray Zapinator": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Gray_Zapinator",
+    "pageTitle": "Gray Zapinator",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Pre-Hardmode Magic Guns"
+    ]
+  },
+  "Green Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Green Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Grenade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Grenade",
+    "pageTitle": "Grenade",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables",
+      "Grenades"
+    ]
+  },
+  "Grenade Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Grenade_Launcher",
+    "pageTitle": "Grenade Launcher",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Gungnir": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Gungnir",
+    "pageTitle": "Gungnir",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Haemorrhaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Haemorrhaxe",
+    "pageTitle": "Haemorrhaxe"
+  },
+  "Hallowed Jousting Lance": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Hallowed_Jousting_Lance",
+    "pageTitle": "Hallowed Jousting Lance",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Hallowed Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Hallowed_Repeater",
+    "pageTitle": "Hallowed Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Ham Bat": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ham_Bat",
+    "pageTitle": "Ham Bat",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Hammush": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Hammush",
+    "pageTitle": "Hammush"
+  },
+  "Handgun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Handgun",
+    "pageTitle": "Handgun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Happy Grenade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Happy_Grenade",
+    "pageTitle": "Happy Grenade",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables",
+      "Grenades"
+    ]
+  },
+  "Harpoon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Harpoon",
+    "pageTitle": "Harpoon",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Heart Arrow": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Heart_Arrow",
+    "pageTitle": "Heart Arrow"
+  },
+  "Heat Ray": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Heat_Ray",
+    "pageTitle": "Heat Ray",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Hel-Fire": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Hel-Fire",
+    "pageTitle": "Hel-Fire",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Hellfire Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Hellfire_Arrow",
+    "pageTitle": "Hellfire Arrow"
+  },
+  "Hellwing Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Hellwing_Bow",
+    "pageTitle": "Hellwing Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "High Velocity Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/High_Velocity_Bullet",
+    "pageTitle": "High Velocity Bullet"
+  },
+  "Hive-Five": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Hive-Five",
+    "pageTitle": "Hive-Five",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Holy Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Holy_Arrow",
+    "pageTitle": "Holy Arrow"
+  },
+  "Holy Hand Grenade": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Holy_Hand_Grenade",
+    "pageTitle": "Holy Hand Grenade",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Holy Water": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Thrown_Water",
+    "pageTitle": "Thrown Water",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Other weapons"
+    ]
+  },
+  "Honey Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_bombs",
+    "pageTitle": "Liquid bombs"
+  },
+  "Honey Rocket": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_rockets",
+    "pageTitle": "Liquid rockets"
+  },
+  "Hornet Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Hornet_Staff",
+    "pageTitle": "Hornet Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Houndius Shootius": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Houndius_Shootius",
+    "pageTitle": "Houndius Shootius",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Pre-Hardmode Sentry-Summoning weapons ((Desktop, Console and Mobile versions))"
+    ]
+  },
+  "Ice Blade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ice_Blade",
+    "pageTitle": "Ice Blade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Ice Boomerang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ice_Boomerang",
+    "pageTitle": "Ice Boomerang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Ice Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ice_Bow",
+    "pageTitle": "Ice Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Ice Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ice_Rod",
+    "pageTitle": "Ice Rod",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Ice Sickle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ice_Sickle",
+    "pageTitle": "Ice Sickle",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Icemourne": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Icemourne",
+    "pageTitle": "Icemourne",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Unimplemented weapons"
+    ]
+  },
+  "Ichor Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ichor_Arrow",
+    "pageTitle": "Ichor Arrow"
+  },
+  "Ichor Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ichor_Bullet",
+    "pageTitle": "Ichor Bullet"
+  },
+  "Ichor Dart": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Ichor_Dart",
+    "pageTitle": "Ichor Dart"
+  },
+  "Imp Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Imp_Staff",
+    "pageTitle": "Imp Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Inferno Fork": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Inferno_Fork",
+    "pageTitle": "Inferno Fork",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Influx Waver": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Influx_Waver",
+    "pageTitle": "Influx Waver",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Iron Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Iron_Axe",
+    "pageTitle": "Iron Axe"
+  },
+  "Iron Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Iron_Bow",
+    "pageTitle": "Iron Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Iron Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Iron_Broadsword",
+    "pageTitle": "Iron Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Iron Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Iron_Hammer",
+    "pageTitle": "Iron Hammer"
+  },
+  "Iron Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Iron_Pickaxe",
+    "pageTitle": "Iron Pickaxe"
+  },
+  "Iron Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Iron_Shortsword",
+    "pageTitle": "Iron Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Jack 'O Lantern Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Jack_%27O_Lantern_Launcher",
+    "pageTitle": "Jack 'O Lantern Launcher",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Javelin": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Javelin",
+    "pageTitle": "Javelin",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Jester's Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Jester%27s_Arrow",
+    "pageTitle": "Jester's Arrow"
+  },
+  "Jousting Lance": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Jousting_Lance",
+    "pageTitle": "Jousting Lance",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "KO Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/KO_Cannon",
+    "pageTitle": "KO Cannon",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Hardmode Flails",
+      "Launched"
+    ]
+  },
+  "Kaleidoscope": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Kaleidoscope",
+    "pageTitle": "Kaleidoscope",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Hardmode Whips"
+    ]
+  },
+  "Katana": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Katana",
+    "pageTitle": "Katana",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Keybrand": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Keybrand",
+    "pageTitle": "Keybrand",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Kraken": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Kraken",
+    "pageTitle": "Kraken",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Land Mine": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Land_Mine",
+    "pageTitle": "Land Mine",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Placeable weapons",
+      "Hardmode Placeable Weapons"
+    ]
+  },
+  "Laser Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Laser_Drill",
+    "pageTitle": "Laser Drill"
+  },
+  "Laser Machinegun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Laser_Machinegun",
+    "pageTitle": "Laser Machinegun",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Laser Rifle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Laser_Rifle",
+    "pageTitle": "Laser Rifle",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Last Prism": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Last_Prism",
+    "pageTitle": "Last Prism",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Lava Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_bombs",
+    "pageTitle": "Liquid bombs"
+  },
+  "Lava Rocket": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_rockets",
+    "pageTitle": "Liquid rockets"
+  },
+  "Lead Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Lead_Axe",
+    "pageTitle": "Lead Axe"
+  },
+  "Lead Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Lead_Bow",
+    "pageTitle": "Lead Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Lead Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Lead_Broadsword",
+    "pageTitle": "Lead Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Lead Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Lead_Hammer",
+    "pageTitle": "Lead Hammer"
+  },
+  "Lead Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Lead_Pickaxe",
+    "pageTitle": "Lead Pickaxe"
+  },
+  "Lead Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Lead_Shortsword",
+    "pageTitle": "Lead Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Leaf Blower": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Leaf_Blower",
+    "pageTitle": "Leaf Blower",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Leather Whip": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Leather_Whip",
+    "pageTitle": "Leather Whip",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Pre-Hardmode Whips"
+    ]
+  },
+  "Life Drain": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Life_Drain",
+    "pageTitle": "Life Drain",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Light Disc": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Light_Disc",
+    "pageTitle": "Light Disc",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Hardmode Boomerangs"
+    ]
+  },
+  "Light's Bane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Light%27s_Bane",
+    "pageTitle": "Light's Bane",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Lightning Aura Cane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Lightning Aura sentry summons",
+    "page": "/wiki/Lightning_Aura_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Lightning Aura Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Lightning Aura sentry summons",
+    "page": "/wiki/Lightning_Aura_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Pre-Hardmode Sentry-Summoning weapons ((Desktop, Console and Mobile versions))",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Lightning Aura Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "pageTitle": "Lightning Aura sentry summons",
+    "page": "/wiki/Lightning_Aura_sentry_summons",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons",
+      "Tavernkeep's sentries"
+    ]
+  },
+  "Lightning Aura sentry summons": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Lightning_Aura_sentry_summons",
+    "pageTitle": "Lightning Aura sentry summons"
+  },
+  "Liquid bombs": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_bombs",
+    "pageTitle": "Liquid bombs"
+  },
+  "Liquid rockets": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_rockets",
+    "pageTitle": "Liquid rockets"
+  },
+  "Lucy the Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Lucy_the_Axe",
+    "pageTitle": "Lucy the Axe"
+  },
+  "Luminite Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Arrow",
+    "pageTitle": "Luminite Arrow"
+  },
+  "Luminite Axes": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Axes",
+    "pageTitle": "Luminite Axes"
+  },
+  "Luminite Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Bullet",
+    "pageTitle": "Luminite Bullet"
+  },
+  "Luminite Chainsaws": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Chainsaws",
+    "pageTitle": "Luminite Chainsaws"
+  },
+  "Luminite Drills": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Drills",
+    "pageTitle": "Luminite Drills"
+  },
+  "Luminite Hamaxes": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hamaxes",
+    "pageTitle": "Luminite Hamaxes"
+  },
+  "Luminite Hammers": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hammers",
+    "pageTitle": "Luminite Hammers"
+  },
+  "Luminite Pickaxes": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Pickaxes",
+    "pageTitle": "Luminite Pickaxes"
+  },
+  "Lunar Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Lunar_Flare",
+    "pageTitle": "Lunar Flare",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Hardmode Spell books"
+    ]
+  },
+  "Lunar Portal Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Lunar_Portal_Staff",
+    "pageTitle": "Lunar Portal Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons"
+    ]
+  },
+  "Mace": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Mace",
+    "pageTitle": "Mace",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Magic Dagger": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Magic_Dagger",
+    "pageTitle": "Magic Dagger",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Magic Missile": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Magic_Missile",
+    "pageTitle": "Magic Missile",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Magical Harp": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Magical_Harp",
+    "pageTitle": "Magical Harp",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Magnet Sphere": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Magnet_Sphere",
+    "pageTitle": "Magnet Sphere",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Hardmode Spell books"
+    ]
+  },
+  "Malaise": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Malaise",
+    "pageTitle": "Malaise",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Mandible Blade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Mandible_Blade",
+    "pageTitle": "Mandible Blade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Marrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Marrow",
+    "pageTitle": "Marrow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Medusa Head": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Medusa_Head",
+    "pageTitle": "Medusa Head",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Megashark": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Megashark",
+    "pageTitle": "Megashark",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Meowmere": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Meowmere",
+    "pageTitle": "Meowmere",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Meteor Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Meteor_Hamaxe",
+    "pageTitle": "Meteor Hamaxe"
+  },
+  "Meteor Shot": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Meteor_Shot",
+    "pageTitle": "Meteor Shot"
+  },
+  "Meteor Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Meteor_Staff",
+    "pageTitle": "Meteor Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Mini Nuke I": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Mini_Nuke_I",
+    "pageTitle": "Mini Nuke I"
+  },
+  "Mini Nuke II": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Mini_Nuke_II",
+    "pageTitle": "Mini Nuke II"
+  },
+  "Minishark": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Minishark",
+    "pageTitle": "Minishark",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Molotov Cocktail": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Molotov_Cocktail",
+    "pageTitle": "Molotov Cocktail",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Molten Fury": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Molten_Fury",
+    "pageTitle": "Molten Fury",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Molten Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Molten_Hamaxe",
+    "pageTitle": "Molten Hamaxe"
+  },
+  "Molten Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Molten_Pickaxe",
+    "pageTitle": "Molten Pickaxe"
+  },
+  "Morning Star": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Morning_Star",
+    "pageTitle": "Morning Star",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Hardmode Whips"
+    ]
+  },
+  "Muramasa": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Muramasa",
+    "pageTitle": "Muramasa",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Mushroom Spear": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mushroom_Spear",
+    "pageTitle": "Mushroom Spear",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Musket": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Musket",
+    "pageTitle": "Musket",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Musket Ball": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Musket_Ball",
+    "pageTitle": "Musket Ball"
+  },
+  "Mythril Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Chainsaw",
+    "pageTitle": "Mythril Chainsaw"
+  },
+  "Mythril Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Drill",
+    "pageTitle": "Mythril Drill"
+  },
+  "Mythril Halberd": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Halberd",
+    "pageTitle": "Mythril Halberd",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Mythril Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Pickaxe",
+    "pageTitle": "Mythril Pickaxe"
+  },
+  "Mythril Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Repeater",
+    "pageTitle": "Mythril Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Mythril Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Sword",
+    "pageTitle": "Mythril Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Mythril Waraxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Mythril_Waraxe",
+    "pageTitle": "Mythril Waraxe"
+  },
+  "Nail": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Nail_Gun",
+    "pageTitle": "Nail Gun"
+  },
+  "Nail Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Nail_Gun",
+    "pageTitle": "Nail Gun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Nano Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Nano_Bullet",
+    "pageTitle": "Nano Bullet"
+  },
+  "Nebula Arcanum": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Nebula_Arcanum",
+    "pageTitle": "Nebula Arcanum",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Nebula Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Axes",
+    "pageTitle": "Luminite Axes"
+  },
+  "Nebula Blaze": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Nebula_Blaze",
+    "pageTitle": "Nebula Blaze",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Nebula Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Chainsaws",
+    "pageTitle": "Luminite Chainsaws"
+  },
+  "Nebula Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Drills",
+    "pageTitle": "Luminite Drills"
+  },
+  "Nebula Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hamaxes",
+    "pageTitle": "Luminite Hamaxes"
+  },
+  "Nebula Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hammers",
+    "pageTitle": "Luminite Hammers"
+  },
+  "Nebula Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Pickaxes",
+    "pageTitle": "Luminite Pickaxes"
+  },
+  "Nettle Burst": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Nettle_Burst",
+    "pageTitle": "Nettle Burst",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Night's Edge": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Night%27s_Edge",
+    "pageTitle": "Night's Edge",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Nightglow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Nightglow",
+    "pageTitle": "Nightglow",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Nightmare Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Nightmare_Pickaxe",
+    "pageTitle": "Nightmare Pickaxe"
+  },
+  "Nimbus Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Nimbus_Rod",
+    "pageTitle": "Nimbus Rod",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "North Pole": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/North_Pole",
+    "pageTitle": "North Pole",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Obsidian Swordfish": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Obsidian_Swordfish",
+    "pageTitle": "Obsidian Swordfish",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Onyx Blaster": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Onyx_Blaster",
+    "pageTitle": "Onyx Blaster",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Optic Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Optic_Staff",
+    "pageTitle": "Optic Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Orange Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Orange Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Orange Zapinator": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Orange_Zapinator",
+    "pageTitle": "Orange Zapinator",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Orichalcum Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Chainsaw",
+    "pageTitle": "Orichalcum Chainsaw"
+  },
+  "Orichalcum Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Drill",
+    "pageTitle": "Orichalcum Drill"
+  },
+  "Orichalcum Halberd": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Halberd",
+    "pageTitle": "Orichalcum Halberd",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Orichalcum Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Pickaxe",
+    "pageTitle": "Orichalcum Pickaxe"
+  },
+  "Orichalcum Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Repeater",
+    "pageTitle": "Orichalcum Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Orichalcum Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Sword",
+    "pageTitle": "Orichalcum Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Orichalcum Waraxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Orichalcum_Waraxe",
+    "pageTitle": "Orichalcum Waraxe"
+  },
+  "Paintball Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Paintball_Gun",
+    "pageTitle": "Paintball Gun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Paladin's Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Paladin%27s_Hammer",
+    "pageTitle": "Paladin's Hammer",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Hardmode Boomerangs"
+    ]
+  },
+  "Palladium Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Chainsaw",
+    "pageTitle": "Palladium Chainsaw"
+  },
+  "Palladium Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Drill",
+    "pageTitle": "Palladium Drill"
+  },
+  "Palladium Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Pickaxe",
+    "pageTitle": "Palladium Pickaxe"
+  },
+  "Palladium Pike": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Pike",
+    "pageTitle": "Palladium Pike",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Palladium Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Repeater",
+    "pageTitle": "Palladium Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Palladium Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Sword",
+    "pageTitle": "Palladium Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Palladium Waraxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Palladium_Waraxe",
+    "pageTitle": "Palladium Waraxe"
+  },
+  "Palm Wood Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Palm_Wood_Bow",
+    "pageTitle": "Palm Wood Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Palm Wood Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Palm_Wood_Hammer",
+    "pageTitle": "Palm Wood Hammer"
+  },
+  "Palm Wood Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Palm_Wood_Sword",
+    "pageTitle": "Palm Wood Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Paper Airplane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Paper_Airplanes",
+    "pageTitle": "Paper Airplanes",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Paper Airplanes": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Paper_Airplanes",
+    "pageTitle": "Paper Airplanes"
+  },
+  "Party Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Party_Bullet",
+    "pageTitle": "Party Bullet"
+  },
+  "Pearlwood Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Pearlwood_Bow",
+    "pageTitle": "Pearlwood Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Pearlwood Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Pearlwood_Hammer",
+    "pageTitle": "Pearlwood Hammer"
+  },
+  "Pearlwood Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Pearlwood_Sword",
+    "pageTitle": "Pearlwood Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Pew-matic Horn": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Pew-matic_Horn",
+    "pageTitle": "Pew-matic Horn",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Phantasm": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Phantasm",
+    "pageTitle": "Phantasm",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Phantom Phoenix": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Phantom_Phoenix",
+    "pageTitle": "Phantom Phoenix",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Phaseblades": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Phasesabers": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Phoenix Blaster": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phoenix_Blaster",
+    "pageTitle": "Phoenix Blaster",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Pickaxe Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Pickaxe_Axe",
+    "pageTitle": "Pickaxe Axe"
+  },
+  "Picksaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Picksaw",
+    "pageTitle": "Picksaw"
+  },
+  "Piranha Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Piranha_Gun",
+    "pageTitle": "Piranha Gun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Pirate Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Pirate_Staff",
+    "pageTitle": "Pirate Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Platinum Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Platinum_Axe",
+    "pageTitle": "Platinum Axe"
+  },
+  "Platinum Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Platinum_Bow",
+    "pageTitle": "Platinum Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Platinum Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Platinum_Broadsword",
+    "pageTitle": "Platinum Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Platinum Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Platinum_Hammer",
+    "pageTitle": "Platinum Hammer"
+  },
+  "Platinum Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Platinum_Pickaxe",
+    "pageTitle": "Platinum Pickaxe"
+  },
+  "Platinum Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Platinum_Shortsword",
+    "pageTitle": "Platinum Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Poison Dart": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Poison_Dart",
+    "pageTitle": "Poison Dart"
+  },
+  "Poison Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Poison_Staff",
+    "pageTitle": "Poison Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Poisoned Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Poisoned_Knife",
+    "pageTitle": "Poisoned Knife",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Possessed Hatchet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Possessed_Hatchet",
+    "pageTitle": "Possessed Hatchet",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Hardmode Boomerangs"
+    ]
+  },
+  "Proximity Mine Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Proximity_Mine_Launcher",
+    "pageTitle": "Proximity Mine Launcher",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Psycho Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Psycho_Knife",
+    "pageTitle": "Psycho Knife",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Pulse Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Pulse_Bow",
+    "pageTitle": "Pulse Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Purple Clubberfish": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Purple_Clubberfish",
+    "pageTitle": "Purple Clubberfish",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Purple Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Purple Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Pwnhammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Pwnhammer",
+    "pageTitle": "Pwnhammer"
+  },
+  "Pygmy Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Pygmy_Staff",
+    "pageTitle": "Pygmy Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Quad-Barrel Shotgun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Quad-Barrel_Shotgun",
+    "pageTitle": "Quad-Barrel Shotgun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Queen Spider Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Queen_Spider_Staff",
+    "pageTitle": "Queen Spider Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons"
+    ]
+  },
+  "Rainbow Crystal Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Rainbow_Crystal_Staff",
+    "pageTitle": "Rainbow Crystal Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons"
+    ]
+  },
+  "Rainbow Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Rainbow Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rainbow_Gun",
+    "pageTitle": "Rainbow Gun",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Rainbow Rod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rainbow_Rod",
+    "pageTitle": "Rainbow Rod",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Rally": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Rally",
+    "pageTitle": "Rally",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Raven Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Raven_Staff",
+    "pageTitle": "Raven Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Razorblade Typhoon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Razorblade_Typhoon",
+    "pageTitle": "Razorblade Typhoon",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Hardmode Spell books"
+    ]
+  },
+  "Razorpine": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Razorpine",
+    "pageTitle": "Razorpine",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Reaver Shark": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Reaver_Shark",
+    "pageTitle": "Reaver Shark"
+  },
+  "Red Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Red Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Red Ryder": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Red_Ryder",
+    "pageTitle": "Red Ryder",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Red's Throw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Red%27s_Throw",
+    "pageTitle": "Red's Throw",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Resonance Scepter": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Resonance_Scepter",
+    "pageTitle": "Resonance Scepter",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Revolver": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Revolver",
+    "pageTitle": "Revolver",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Rich Mahogany Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rich_Mahogany_Bow",
+    "pageTitle": "Rich Mahogany Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Rich Mahogany Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rich_Mahogany_Hammer",
+    "pageTitle": "Rich Mahogany Hammer"
+  },
+  "Rich Mahogany Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rich_Mahogany_Sword",
+    "pageTitle": "Rich Mahogany Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Rocket I": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rocket_I"
+  },
+  "Rocket II": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rocket_II"
+  },
+  "Rocket III": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rocket_III"
+  },
+  "Rocket IV": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rocket_IV"
+  },
+  "Rocket Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rocket_Launcher",
+    "pageTitle": "Rocket Launcher",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Rockfish": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rockfish",
+    "pageTitle": "Rockfish"
+  },
+  "Roman candle": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Roman_candle",
+    "pageTitle": "Roman candle",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Pre-Hardmode Magic Guns"
+    ]
+  },
+  "Rotten Egg": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Rotten_Egg",
+    "pageTitle": "Rotten Egg",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Ruby Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Ruby_Staff",
+    "pageTitle": "Ruby Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Ruler": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Ruler",
+    "pageTitle": "Ruler",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "S.D.M.G.": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/S.D.M.G.",
+    "pageTitle": "S.D.M.G.",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Sandgun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sandgun",
+    "pageTitle": "Sandgun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Sanguine Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sanguine_Staff",
+    "pageTitle": "Sanguine Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Sapphire Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sapphire_Staff",
+    "pageTitle": "Sapphire Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Sawtooth Shark": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sawtooth_Shark",
+    "pageTitle": "Sawtooth Shark"
+  },
+  "Scarab Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Scarab_Bomb",
+    "pageTitle": "Scarab Bomb",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Scourge of the Corruptor": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Scourge_of_the_Corruptor",
+    "pageTitle": "Scourge of the Corruptor",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Scythe": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Scythe",
+    "pageTitle": "Scythe",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Unimplemented weapons"
+    ]
+  },
+  "Seedler": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Seedler",
+    "pageTitle": "Seedler",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Sergeant United Shield": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sergeant_United_Shield",
+    "pageTitle": "Sergeant United Shield",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Hardmode Boomerangs"
+    ]
+  },
+  "Shadewood Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Shadewood_Bow",
+    "pageTitle": "Shadewood Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Shadewood Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Shadewood_Hammer",
+    "pageTitle": "Shadewood Hammer"
+  },
+  "Shadewood Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Shadewood_Sword",
+    "pageTitle": "Shadewood Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Shadow Jousting Lance": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Shadow_Jousting_Lance",
+    "pageTitle": "Shadow Jousting Lance",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Shadowbeam Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Shadowbeam_Staff",
+    "pageTitle": "Shadowbeam Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Shadowflame Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Shadowflame_Bow",
+    "pageTitle": "Shadowflame Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Shadowflame Hex Doll": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Shadowflame_Hex_Doll",
+    "pageTitle": "Shadowflame Hex Doll",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Shadowflame Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Shadowflame_Knife",
+    "pageTitle": "Shadowflame Knife",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Sharanga": {
+    "platforms": [
+      "oldGen",
+      "threeDS"
+    ],
+    "page": "/wiki/Sharanga",
+    "pageTitle": "Sharanga",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Shimmer Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Shimmer_Arrow",
+    "pageTitle": "Shimmer Arrow"
+  },
+  "Shimmer Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Shotgun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Shotgun",
+    "pageTitle": "Shotgun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Shroomerang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Shroomerang",
+    "pageTitle": "Shroomerang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Shroomite Digging Claw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Shroomite_Digging_Claw",
+    "pageTitle": "Shroomite Digging Claw"
+  },
+  "Shuriken": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Shuriken",
+    "pageTitle": "Shuriken",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Sickle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sickle",
+    "pageTitle": "Sickle"
+  },
+  "Silver Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Axe",
+    "pageTitle": "Silver Axe"
+  },
+  "Silver Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Bow",
+    "pageTitle": "Silver Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Silver Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Broadsword",
+    "pageTitle": "Silver Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Silver Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Bullet",
+    "pageTitle": "Silver Bullet"
+  },
+  "Silver Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Hammer",
+    "pageTitle": "Silver Hammer"
+  },
+  "Silver Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Pickaxe",
+    "pageTitle": "Silver Pickaxe"
+  },
+  "Silver Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Silver_Shortsword",
+    "pageTitle": "Silver Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Skull Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Skull_Bow",
+    "pageTitle": "Skull Bow",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Unimplemented weapons"
+    ]
+  },
+  "Sky Dragon's Fury": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sky_Dragon%27s_Fury",
+    "pageTitle": "Sky Dragon's Fury",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Sky Fracture": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sky_Fracture",
+    "pageTitle": "Sky Fracture",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Slap Hand": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Slap_Hand",
+    "pageTitle": "Slap Hand",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Sleepy Octopod": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sleepy_Octopod",
+    "pageTitle": "Sleepy Octopod",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Slime Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Slime_Staff",
+    "pageTitle": "Slime Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Snapthorn": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Snapthorn",
+    "pageTitle": "Snapthorn",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Pre-Hardmode Whips"
+    ]
+  },
+  "Sniper Rifle": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sniper_Rifle",
+    "pageTitle": "Sniper Rifle",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Snowball": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Snowball",
+    "pageTitle": "Snowball",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Snowball Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Snowball_Cannon",
+    "pageTitle": "Snowball Cannon",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Snowball Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Snowball_Launcher",
+    "pageTitle": "Snowball Launcher",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Placeable weapons",
+      "Pre-Hardmode Placeable Weapons"
+    ]
+  },
+  "Snowman Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Snowman_Cannon",
+    "pageTitle": "Snowman Cannon",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Solar Eruption": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Solar_Eruption",
+    "pageTitle": "Solar Eruption",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Solar Flare Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Axes",
+    "pageTitle": "Luminite Axes"
+  },
+  "Solar Flare Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Chainsaws",
+    "pageTitle": "Luminite Chainsaws"
+  },
+  "Solar Flare Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Drills",
+    "pageTitle": "Luminite Drills"
+  },
+  "Solar Flare Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hamaxes",
+    "pageTitle": "Luminite Hamaxes"
+  },
+  "Solar Flare Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hammers",
+    "pageTitle": "Luminite Hammers"
+  },
+  "Solar Flare Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Pickaxes",
+    "pageTitle": "Luminite Pickaxes"
+  },
+  "Soul Scythe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Soul_Scythe",
+    "pageTitle": "Soul Scythe",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Removed weapons"
+    ]
+  },
+  "Space Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Space_Gun",
+    "pageTitle": "Space Gun",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Pre-Hardmode Magic Guns"
+    ]
+  },
+  "Spear": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Spear",
+    "pageTitle": "Spear",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Pre-Hardmode Spears"
+    ]
+  },
+  "Spectral Arrow": {
+    "platforms": [
+      "oldGen",
+      "threeDS"
+    ],
+    "page": "/wiki/Spectral_Arrow",
+    "pageTitle": "Spectral Arrow"
+  },
+  "Spectre Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Spectre_Hamaxe",
+    "pageTitle": "Spectre Hamaxe"
+  },
+  "Spectre Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Spectre_Pickaxe",
+    "pageTitle": "Spectre Pickaxe"
+  },
+  "Spectre Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Spectre_Staff",
+    "pageTitle": "Spectre Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Spelunker Flare": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Flares",
+    "pageTitle": "Flares"
+  },
+  "Spider Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Spider_Staff",
+    "pageTitle": "Spider Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Spiky Ball": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Spiky_Ball",
+    "pageTitle": "Spiky Ball",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Spinal Tap": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Spinal_Tap",
+    "pageTitle": "Spinal Tap",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Whips",
+      "Pre-Hardmode Whips"
+    ]
+  },
+  "Spirit Flame": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Spirit_Flame",
+    "pageTitle": "Spirit Flame",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Staff of Earth": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Staff_of_Earth",
+    "pageTitle": "Staff of Earth",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Staff of Regrowth": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Staff_of_Regrowth",
+    "pageTitle": "Staff of Regrowth"
+  },
+  "Staff of the Frost Hydra": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Staff_of_the_Frost_Hydra",
+    "pageTitle": "Staff of the Frost Hydra",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Sentry-summoning weapons",
+      "Hardmode Sentry-Summoning weapons"
+    ]
+  },
+  "Stake Launcher": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Stake_Launcher",
+    "pageTitle": "Stake Launcher",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Star Anise": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Star_Anise",
+    "pageTitle": "Star Anise",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Star Cannon": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Star_Cannon",
+    "pageTitle": "Star Cannon",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Pre-Hardmode Others"
+    ]
+  },
+  "Star Wrath": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Star_Wrath",
+    "pageTitle": "Star Wrath",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Stardust Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Axes",
+    "pageTitle": "Luminite Axes"
+  },
+  "Stardust Cell Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Stardust_Cell_Staff",
+    "pageTitle": "Stardust Cell Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Stardust Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Chainsaws",
+    "pageTitle": "Luminite Chainsaws"
+  },
+  "Stardust Dragon Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Stardust_Dragon_Staff",
+    "pageTitle": "Stardust Dragon Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Stardust Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Drills",
+    "pageTitle": "Luminite Drills"
+  },
+  "Stardust Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hamaxes",
+    "pageTitle": "Luminite Hamaxes"
+  },
+  "Stardust Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hammers",
+    "pageTitle": "Luminite Hammers"
+  },
+  "Stardust Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Pickaxes",
+    "pageTitle": "Luminite Pickaxes"
+  },
+  "Starfury": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Starfury",
+    "pageTitle": "Starfury",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Starlight": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Starlight",
+    "pageTitle": "Starlight",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Stellar Tune": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Stellar_Tune",
+    "pageTitle": "Stellar Tune",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Sticky Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sticky_Bomb",
+    "pageTitle": "Sticky Bomb",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Sticky Dirt Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sticky_Dirt_Bomb",
+    "pageTitle": "Sticky Dirt Bomb"
+  },
+  "Sticky Dynamite": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Sticky_Dynamite",
+    "pageTitle": "Sticky Dynamite",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Explosives"
+    ]
+  },
+  "Sticky Grenade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Sticky_Grenade",
+    "pageTitle": "Sticky Grenade",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables",
+      "Grenades"
+    ]
+  },
+  "Storm Spear": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Storm_Spear",
+    "pageTitle": "Storm Spear",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Pre-Hardmode Spears"
+    ]
+  },
+  "Stylish Scissors": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Stylish_Scissors",
+    "pageTitle": "Stylish Scissors",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Stynger": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Stynger",
+    "pageTitle": "Stynger",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Launchers"
+    ]
+  },
+  "Sunfury": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Sunfury",
+    "pageTitle": "Sunfury",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "Super Star Shooter": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Super_Star_Shooter",
+    "pageTitle": "Super Star Shooter",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Swordfish": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Swordfish",
+    "pageTitle": "Swordfish",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Pre-Hardmode Spears"
+    ]
+  },
+  "Tactical Shotgun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tactical_Shotgun",
+    "pageTitle": "Tactical Shotgun",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Tempest Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tempest_Staff",
+    "pageTitle": "Tempest Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Tendon Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tendon_Bow",
+    "pageTitle": "Tendon Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Tentacle Spike": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Tentacle_Spike",
+    "pageTitle": "Tentacle Spike",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Terra Blade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Terra_Blade",
+    "pageTitle": "Terra Blade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Terragrim": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Terragrim",
+    "pageTitle": "Terragrim",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Pre-Hardmode Other"
+    ]
+  },
+  "Terraprisma": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Terraprisma",
+    "pageTitle": "Terraprisma",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Terrarian": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Terrarian",
+    "pageTitle": "Terrarian",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "The Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/The_Axe",
+    "pageTitle": "The Axe"
+  },
+  "The Bee's Knees": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/The_Bee%27s_Knees",
+    "pageTitle": "The Bee's Knees",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "The Breaker": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/The_Breaker",
+    "pageTitle": "The Breaker"
+  },
+  "The Eye of Cthulhu": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/The_Eye_of_Cthulhu",
+    "pageTitle": "The Eye of Cthulhu",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "The Horseman's Blade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/The_Horseman%27s_Blade",
+    "pageTitle": "The Horseman's Blade",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "The Meatball": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/The_Meatball",
+    "pageTitle": "The Meatball",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Flails",
+      "Pre-Hardmode Flails",
+      "Thrown"
+    ]
+  },
+  "The Rotted Fork": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/The_Rotted_Fork",
+    "pageTitle": "The Rotted Fork",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Pre-Hardmode Spears"
+    ]
+  },
+  "The Undertaker": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/The_Undertaker",
+    "pageTitle": "The Undertaker",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Pre-Hardmode Guns"
+    ]
+  },
+  "Thorn Chakram": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Thorn_Chakram",
+    "pageTitle": "Thorn Chakram",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Throwing Knife": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Throwing_Knife",
+    "pageTitle": "Throwing Knife",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "Thunder Zapper": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Thunder_Zapper",
+    "pageTitle": "Thunder Zapper",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Tin Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tin_Axe",
+    "pageTitle": "Tin Axe"
+  },
+  "Tin Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tin_Bow",
+    "pageTitle": "Tin Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Tin Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tin_Broadsword",
+    "pageTitle": "Tin Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Tin Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tin_Hammer",
+    "pageTitle": "Tin Hammer"
+  },
+  "Tin Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tin_Pickaxe",
+    "pageTitle": "Tin Pickaxe"
+  },
+  "Tin Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tin_Shortsword",
+    "pageTitle": "Tin Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Titanium Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Chainsaw",
+    "pageTitle": "Titanium Chainsaw"
+  },
+  "Titanium Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Drill",
+    "pageTitle": "Titanium Drill"
+  },
+  "Titanium Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Pickaxe",
+    "pageTitle": "Titanium Pickaxe"
+  },
+  "Titanium Repeater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Repeater",
+    "pageTitle": "Titanium Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Titanium Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Sword",
+    "pageTitle": "Titanium Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Titanium Trident": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Trident",
+    "pageTitle": "Titanium Trident",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Titanium Waraxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Titanium_Waraxe",
+    "pageTitle": "Titanium Waraxe"
+  },
+  "Tizona": {
+    "platforms": [
+      "oldGen",
+      "threeDS"
+    ],
+    "page": "/wiki/Tizona",
+    "pageTitle": "Tizona",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Tome of Infinite Wisdom": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Tome_of_Infinite_Wisdom",
+    "pageTitle": "Tome of Infinite Wisdom",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Tonbogiri": {
+    "platforms": [
+      "oldGen",
+      "threeDS"
+    ],
+    "page": "/wiki/Tonbogiri",
+    "pageTitle": "Tonbogiri",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Hardmode Spears"
+    ]
+  },
+  "Topaz Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Topaz_Staff",
+    "pageTitle": "Topaz Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Toxic Flask": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Toxic_Flask",
+    "pageTitle": "Toxic Flask",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Others",
+      "Hardmode Other"
+    ]
+  },
+  "Toxikarp": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Toxikarp",
+    "pageTitle": "Toxikarp",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Others",
+      "Hardmode Others"
+    ]
+  },
+  "Tragic Umbrella": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Tragic_Umbrella",
+    "pageTitle": "Tragic Umbrella",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Trident": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Trident",
+    "pageTitle": "Trident",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Spears",
+      "Pre-Hardmode Spears"
+    ]
+  },
+  "Trimarang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Trimarang",
+    "pageTitle": "Trimarang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "True Excalibur": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/True_Excalibur",
+    "pageTitle": "True Excalibur",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "True Night's Edge": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/True_Night%27s_Edge",
+    "pageTitle": "True Night's Edge",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Tsunami": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tsunami",
+    "pageTitle": "Tsunami",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Tungsten Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tungsten_Axe",
+    "pageTitle": "Tungsten Axe"
+  },
+  "Tungsten Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tungsten_Bow",
+    "pageTitle": "Tungsten Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Tungsten Broadsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tungsten_Broadsword",
+    "pageTitle": "Tungsten Broadsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Tungsten Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Tungsten_Bullet",
+    "pageTitle": "Tungsten Bullet"
+  },
+  "Tungsten Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tungsten_Hammer",
+    "pageTitle": "Tungsten Hammer"
+  },
+  "Tungsten Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tungsten_Pickaxe",
+    "pageTitle": "Tungsten Pickaxe"
+  },
+  "Tungsten Shortsword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Tungsten_Shortsword",
+    "pageTitle": "Tungsten Shortsword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Umbrella": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Umbrella",
+    "pageTitle": "Umbrella",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Unholy Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Unholy_Arrow",
+    "pageTitle": "Unholy Arrow"
+  },
+  "Unholy Trident": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Unholy_Trident",
+    "pageTitle": "Unholy Trident",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Unholy Water": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Thrown_Water",
+    "pageTitle": "Thrown Water",
+    "categories": [
+      "Weapons",
+      "Other weapons",
+      "Other weapons"
+    ]
+  },
+  "Uzi": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Uzi",
+    "pageTitle": "Uzi",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Valkyrie Yoyo": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Valkyrie_Yoyo",
+    "pageTitle": "Valkyrie Yoyo",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Valor": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Valor",
+    "pageTitle": "Valor",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Vampire Frog Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Vampire_Frog_Staff",
+    "pageTitle": "Vampire Frog Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Pre-Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Vampire Knives": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Vampire_Knives",
+    "pageTitle": "Vampire Knives",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Venom Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Venom_Arrow",
+    "pageTitle": "Venom Arrow"
+  },
+  "Venom Bullet": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Venom_Bullet",
+    "pageTitle": "Venom Bullet"
+  },
+  "Venom Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc"
+    ],
+    "page": "/wiki/Venom_Staff",
+    "pageTitle": "Venom Staff",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Hardmode Wands"
+    ]
+  },
+  "Venus Magnum": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Venus_Magnum",
+    "pageTitle": "Venus Magnum",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Vilethorn": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Vilethorn",
+    "pageTitle": "Vilethorn",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Volcano": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Volcano",
+    "pageTitle": "Volcano",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Vortex Axe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Axes",
+    "pageTitle": "Luminite Axes"
+  },
+  "Vortex Beater": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Vortex_Beater",
+    "pageTitle": "Vortex Beater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Vortex Chainsaw": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Chainsaws",
+    "pageTitle": "Luminite Chainsaws"
+  },
+  "Vortex Drill": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Drills",
+    "pageTitle": "Luminite Drills"
+  },
+  "Vortex Hamaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hamaxes",
+    "pageTitle": "Luminite Hamaxes"
+  },
+  "Vortex Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Hammers",
+    "pageTitle": "Luminite Hammers"
+  },
+  "Vortex Pickaxe": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Luminite_Pickaxes",
+    "pageTitle": "Luminite Pickaxes"
+  },
+  "Vulcan Bolt": {
+    "platforms": [
+      "oldGen",
+      "threeDS"
+    ],
+    "page": "/wiki/Vulcan_Bolt",
+    "pageTitle": "Vulcan Bolt"
+  },
+  "Vulcan Repeater": {
+    "platforms": [
+      "oldGen",
+      "threeDS"
+    ],
+    "page": "/wiki/Vulcan_Repeater",
+    "pageTitle": "Vulcan Repeater",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Hardmode Bows and Repeaters"
+    ]
+  },
+  "Waffle's Iron": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Waffle%27s_Iron",
+    "pageTitle": "Waffle's Iron",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Hardmode Swords"
+    ]
+  },
+  "Wand of Frosting": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Wand_of_Frosting",
+    "pageTitle": "Wand of Frosting",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Wand of Sparking": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Wand_of_Sparking",
+    "pageTitle": "Wand of Sparking",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "War Axe of the Night": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/War_Axe_of_the_Night",
+    "pageTitle": "War Axe of the Night"
+  },
+  "Wasp Gun": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Wasp_Gun",
+    "pageTitle": "Wasp Gun",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Water Bolt": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Water_Bolt",
+    "pageTitle": "Water Bolt",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Spell books",
+      "Pre-Hardmode Spell books"
+    ]
+  },
+  "Weather Pain": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Weather_Pain",
+    "pageTitle": "Weather Pain",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Wands",
+      "Pre-Hardmode Wands"
+    ]
+  },
+  "Wet Bomb": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_bombs",
+    "pageTitle": "Liquid bombs"
+  },
+  "Wet Rocket": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Liquid_rockets",
+    "pageTitle": "Liquid rockets"
+  },
+  "White Paper Airplane": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Paper_Airplanes",
+    "pageTitle": "Paper Airplanes",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Consumables"
+    ]
+  },
+  "White Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "White Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Wooden Arrow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Wooden_Arrow",
+    "pageTitle": "Wooden Arrow"
+  },
+  "Wooden Boomerang": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Wooden_Boomerang",
+    "pageTitle": "Wooden Boomerang",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Boomerangs",
+      "Pre-Hardmode Boomerangs"
+    ]
+  },
+  "Wooden Bow": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Wooden_Bow",
+    "pageTitle": "Wooden Bow",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Bows and Repeaters",
+      "Pre-Hardmode Bows"
+    ]
+  },
+  "Wooden Hammer": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Wooden_Hammer",
+    "pageTitle": "Wooden Hammer"
+  },
+  "Wooden Sword": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Wooden_Sword",
+    "pageTitle": "Wooden Sword",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  },
+  "Wooden Yoyo": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Wooden_Yoyo",
+    "pageTitle": "Wooden Yoyo",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Pre-Hardmode Yoyos"
+    ]
+  },
+  "Xeno Staff": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Xeno_Staff",
+    "pageTitle": "Xeno Staff",
+    "categories": [
+      "Weapons",
+      "Summoning weapons",
+      "Minion-summoning weapons",
+      "Hardmode Minion-Summoning weapons"
+    ]
+  },
+  "Xenopopper": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Xenopopper",
+    "pageTitle": "Xenopopper",
+    "categories": [
+      "Weapons",
+      "Ranged weapons",
+      "Guns",
+      "Hardmode Guns"
+    ]
+  },
+  "Yelets": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Yelets",
+    "pageTitle": "Yelets",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Yoyos",
+      "Hardmode Yoyos"
+    ]
+  },
+  "Yellow Phaseblade": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phaseblades",
+    "pageTitle": "Phaseblades"
+  },
+  "Yellow Phasesaber": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Phasesabers",
+    "pageTitle": "Phasesabers"
+  },
+  "Zapinator": {
+    "platforms": [
+      "threeDS"
+    ],
+    "page": "/wiki/Zapinator",
+    "pageTitle": "Zapinator",
+    "categories": [
+      "Weapons",
+      "Magic weapons",
+      "Magic guns",
+      "Hardmode Magic Guns"
+    ]
+  },
+  "Zenith": {
+    "platforms": [
+      "console",
+      "mobile",
+      "pc"
+    ],
+    "page": "/wiki/Zenith",
+    "pageTitle": "Zenith",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Other",
+      "Hardmode Other"
+    ]
+  },
+  "Zombie Arm": {
+    "platforms": [
+      "console",
+      "mobile",
+      "oldGen",
+      "pc",
+      "threeDS"
+    ],
+    "page": "/wiki/Zombie_Arm",
+    "pageTitle": "Zombie Arm",
+    "categories": [
+      "Weapons",
+      "Melee weapons",
+      "Swords",
+      "Pre-Hardmode Swords"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "declaration": true,
+    "esModuleInterop": false,
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": false,
+    "outDir": "./dist",
+    "strict": true,
+    "target": "ESNext",
+    "lib": [
+      "ES2022",
+      "ESNext",
+      "dom"
+    ]
+  }
+}

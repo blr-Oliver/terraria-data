@@ -1,0 +1,27 @@
+{
+  "name": "terraria-data",
+  "version": "0.0.1",
+  "description": "Terraria data in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blr-Oliver/terraria-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blr-Oliver/terraria-data/issues"
+  },
+  "homepage": "https://github.com/blr-Oliver/terraria-data#readme",
+  "keywords": [
+    "Terraria",
+    "data"
+  ],
+  "author": "Vasily Liaskovsky <vasily.liaskovsky@gmail.com>",
+  "devDependencies": {
+    "typescript": "^4.9"
+  },
+  "private": false,
+  "license": "MIT"
+}

@@ -1,0 +1,813 @@
+{
+  "Adamantite Drill": {
+    "knockback": 0
+  },
+  "Adamantite Glaive": {
+    "damage": 38
+  },
+  "Adamantite Repeater": {
+    "damage": 37,
+    "useTime": 20
+  },
+  "Adamantite Sword": {
+    "damage": 44,
+    "useTime": 27
+  },
+  "Amethyst Staff": {
+    "damage": 14,
+    "useTime": 40,
+    "manaCost": 3
+  },
+  "Anchor": {
+    "damage": 30,
+    "useTime": 30,
+    "knockback": 5
+  },
+  "Aqua Scepter": {
+    "damage": 15,
+    "knockback": 5,
+    "sellValue": 5400,
+    "manaCost": 6
+  },
+  "Ball O' Hurt": {
+    "damage": 15,
+    "sellValue": 5400
+  },
+  "Bananarang": {
+    "damage": 40,
+    "useTime": 7,
+    "sellValue": 75000
+  },
+  "Bat Scepter": {
+    "manaCost": 3
+  },
+  "Bee Gun": {
+    "knockback": 0,
+    "sellValue": 30000
+  },
+  "Bee Keeper": {
+    "damage": 22,
+    "sellValue": 5400
+  },
+  "Beenade": {
+    "damage": 14,
+    "sellValue": 200
+  },
+  "Blade of Grass": {
+    "damage": 28,
+    "useTime": 30,
+    "knockback": 3
+  },
+  "Bladed Glove": {
+    "damage": 12
+  },
+  "Bloody Machete": {
+    "damage": 15
+  },
+  "Blowgun": {
+    "damage": 25
+  },
+  "Blowpipe": {
+    "useTime": 45
+  },
+  "Blue Moon": {
+    "damage": 23
+  },
+  "Blue Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Blue Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Bomb": {
+    "maxStack": 100
+  },
+  "Bone": {
+    "damage": 22,
+    "knockback": 4
+  },
+  "Bone Pickaxe": {
+    "pickaxePower": 50,
+    "sellValue": 3600
+  },
+  "Bone Sword": {
+    "damage": 16,
+    "knockback": 4.5
+  },
+  "Book of Skulls": {
+    "damage": 28,
+    "sellValue": 10000,
+    "manaCost": 22
+  },
+  "Boomstick": {
+    "damage": 12,
+    "velocity": 5.25,
+    "useTime": 42,
+    "knockback": 5.5
+  },
+  "Breaker Blade": {
+    "damage": 39,
+    "useTime": 30
+  },
+  "Bubble Gun": {
+    "velocity": 11,
+    "manaCost": 4
+  },
+  "Cactus Pickaxe": {
+    "damage": 5,
+    "useTime": 23,
+    "toolSpeed": 15
+  },
+  "Cactus Sword": {
+    "damage": 9,
+    "useTime": 25,
+    "knockback": 5
+  },
+  "Chain Knife": {
+    "damage": 11
+  },
+  "Chlorophyte Bullet": {
+    "damage": 15
+  },
+  "Chlorophyte Claymore": {
+    "damage": 65,
+    "useTime": 28
+  },
+  "Chlorophyte Saber": {
+    "damage": 43,
+    "useTime": 17
+  },
+  "Christmas Tree Sword": {
+    "damage": 73
+  },
+  "Clockwork Assault Rifle": {
+    "damage": 19
+  },
+  "Cobalt Drill": {
+    "knockback": 0
+  },
+  "Cobalt Naginata": {
+    "damage": 29
+  },
+  "Cobalt Repeater": {
+    "damage": 30,
+    "useTime": 25
+  },
+  "Cobalt Sword": {
+    "damage": 34,
+    "useTime": 23,
+    "knockback": 3.85
+  },
+  "Copper Broadsword": {
+    "damage": 8,
+    "useTime": 23
+  },
+  "Copper Shortsword": {
+    "damage": 7
+  },
+  "Crimson Rod": {
+    "manaCost": 10,
+    "sellValue": 2000
+  },
+  "Crystal Bullet": {
+    "damage": 8
+  },
+  "Crystal Storm": {
+    "damage": 25,
+    "manaCost": 4
+  },
+  "Cursed Arrow": {
+    "damage": 14
+  },
+  "Cursed Flames": {
+    "damage": 35,
+    "useTime": 20,
+    "manaCost": 12
+  },
+  "Cutlass": {
+    "damage": 51
+  },
+  "Dao of Pow": {
+    "damage": 49
+  },
+  "Dark Lance": {
+    "damage": 27,
+    "knockback": 4
+  },
+  "Death Sickle": {
+    "knockback": 7
+  },
+  "Demon Scythe": {
+    "manaCost": 10
+  },
+  "Dynamite": {
+    "maxStack": 30
+  },
+  "Ebonwood Sword": {
+    "damage": 10,
+    "useTime": 23,
+    "knockback": 5
+  },
+  "Elf Melter": {
+    "damage": 40
+  },
+  "Enchanted Boomerang": {
+    "damage": 13,
+    "useTime": 15
+  },
+  "Enchanted Sword": {
+    "damage": 18,
+    "useTime": 18,
+    "knockback": 5.25,
+    "velocity": 9
+  },
+  "Excalibur": {
+    "damage": 47,
+    "useTime": 25
+  },
+  "Falcon Blade": {
+    "useTime": 15
+  },
+  "Flamarang": {
+    "damage": 37,
+    "useTime": 15
+  },
+  "Flamelash": {
+    "damage": 34,
+    "useTime": 20,
+    "manaCost": 16
+  },
+  "Flaming Arrow": {
+    "damage": 6,
+    "sellValue": 3
+  },
+  "Flintlock Pistol": {
+    "damage": 10,
+    "knockback": 0
+  },
+  "Flower Pow": {
+    "damage": 52
+  },
+  "Flower of Fire": {
+    "damage": 44,
+    "velocity": 6,
+    "useTime": 20,
+    "manaCost": 17
+  },
+  "Flower of Frost": {
+    "damage": 50,
+    "velocity": 7,
+    "useTime": 20,
+    "manaCost": 17
+  },
+  "Frost Staff": {
+    "damage": 43,
+    "useTime": 20,
+    "manaCost": 14
+  },
+  "Gold Broadsword": {
+    "damage": 13,
+    "useTime": 20,
+    "knockback": 5
+  },
+  "Golden Shower": {
+    "damage": 21
+  },
+  "Golem Fist": {
+    "damage": 60,
+    "knockback": 9
+  },
+  "Green Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Green Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Grenade Launcher": {
+    "damage": 55,
+    "useTime": 30
+  },
+  "Gungnir": {
+    "damage": 42
+  },
+  "Hallowed Repeater": {
+    "damage": 39,
+    "useTime": 19
+  },
+  "Handgun": {
+    "damage": 15,
+    "useTime": 12,
+    "sellValue": 10000
+  },
+  "Heat Ray": {
+    "damage": 55,
+    "useTime": 16
+  },
+  "Hellfire Arrow": {
+    "damage": 10
+  },
+  "High Velocity Bullet": {
+    "damage": 10
+  },
+  "Holy Arrow": {
+    "damage": 6
+  },
+  "Ice Blade": {
+    "damage": 13
+  },
+  "Ice Boomerang": {
+    "damage": 14,
+    "useTime": 15,
+    "critChance": 4
+  },
+  "Ice Bow": {
+    "damage": 46,
+    "useTime": 21
+  },
+  "Ice Rod": {
+    "sellValue": 200000,
+    "buyValue": 1000000
+  },
+  "Ice Sickle": {
+    "damage": 40
+  },
+  "Ichor Arrow": {
+    "damage": 15
+  },
+  "Inferno Fork": {
+    "knockback": 8
+  },
+  "Iron Broadsword": {
+    "damage": 10,
+    "useTime": 22,
+    "knockback": 5
+  },
+  "Jack 'O Lantern Launcher": {
+    "damage": 60,
+    "useTime": 30
+  },
+  "Jester's Arrow": {
+    "damage": 9
+  },
+  "KO Cannon": {
+    "damage": 35
+  },
+  "Keybrand": {
+    "damage": 55,
+    "useTime": 22,
+    "knockback": 6,
+    "critChance": 4
+  },
+  "Lead Broadsword": {
+    "damage": 11,
+    "useTime": 21,
+    "knockback": 5
+  },
+  "Leaf Blower": {
+    "damage": 42,
+    "useTime": 8,
+    "knockback": 3,
+    "sellValue": 70000,
+    "manaCost": 4
+  },
+  "Light Disc": {
+    "damage": 35,
+    "velocity": 13,
+    "useTime": 15,
+    "sellValue": 100000
+  },
+  "Light's Bane": {
+    "damage": 17
+  },
+  "Magic Dagger": {
+    "damage": 40
+  },
+  "Magic Missile": {
+    "damage": 23,
+    "useTime": 17,
+    "knockback": 5.5,
+    "manaCost": 10
+  },
+  "Magical Harp": {
+    "damage": 32,
+    "manaCost": 4,
+    "knockback": 0
+  },
+  "Marrow": {
+    "damage": 40
+  },
+  "Megashark": {
+    "damage": 23,
+    "sellValue": 60000
+  },
+  "Meteor Shot": {
+    "damage": 9
+  },
+  "Molten Fury": {
+    "damage": 29
+  },
+  "Muramasa": {
+    "damage": 18,
+    "knockback": 1
+  },
+  "Musket": {
+    "damage": 25,
+    "useTime": 40,
+    "knockback": 4.5,
+    "sellValue": 20000
+  },
+  "Mythril Chainsaw": {
+    "useTime": 8
+  },
+  "Mythril Drill": {
+    "knockback": 0
+  },
+  "Mythril Halberd": {
+    "damage": 35
+  },
+  "Mythril Repeater": {
+    "damage": 34,
+    "useTime": 23
+  },
+  "Mythril Sword": {
+    "damage": 39,
+    "useTime": 26
+  },
+  "Nettle Burst": {
+    "damage": 25,
+    "manaCost": 10
+  },
+  "Night's Edge": {
+    "damage": 42,
+    "useTime": 27,
+    "sellValue": 5400
+  },
+  "Nimbus Rod": {
+    "damage": 36,
+    "manaCost": 10
+  },
+  "North Pole": {
+    "damage": 73,
+    "useTime": 25
+  },
+  "Orichalcum Drill": {
+    "knockback": 0
+  },
+  "Orichalcum Halberd": {
+    "damage": 36
+  },
+  "Orichalcum Repeater": {
+    "damage": 36,
+    "useTime": 22
+  },
+  "Orichalcum Sword": {
+    "damage": 41,
+    "useTime": 26
+  },
+  "Palladium Drill": {
+    "knockback": 0
+  },
+  "Palladium Pike": {
+    "damage": 32
+  },
+  "Palladium Repeater": {
+    "damage": 32,
+    "useTime": 24
+  },
+  "Palladium Sword": {
+    "damage": 36,
+    "useTime": 25,
+    "knockback": 4.75
+  },
+  "Party Bullet": {
+    "sellValue": 8
+  },
+  "Pearlwood Sword": {
+    "damage": 11,
+    "useTime": 21
+  },
+  "Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Phaseblades": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Phasesabers": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Phoenix Blaster": {
+    "damage": 23,
+    "useTime": 11
+  },
+  "Piranha Gun": {
+    "damage": 33
+  },
+  "Platinum Broadsword": {
+    "damage": 15,
+    "useTime": 19,
+    "knockback": 5
+  },
+  "Poison Dart": {
+    "damage": 8
+  },
+  "Poisoned Knife": {
+    "damage": 13
+  },
+  "Possessed Hatchet": {
+    "damage": 90
+  },
+  "Proximity Mine Launcher": {
+    "damage": 45,
+    "useTime": 30
+  },
+  "Purple Clubberfish": {
+    "damage": 24,
+    "knockback": 7
+  },
+  "Purple Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Purple Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Pygmy Staff": {
+    "damage": 34
+  },
+  "Rainbow Gun": {
+    "knockback": 2
+  },
+  "Rainbow Rod": {
+    "damage": 72,
+    "useTime": 17,
+    "manaCost": 18
+  },
+  "Raven Staff": {
+    "damage": 37
+  },
+  "Razorblade Typhoon": {
+    "damage": 60,
+    "useTime": 20,
+    "manaCost": 18
+  },
+  "Razorpine": {
+    "damage": 58
+  },
+  "Reaver Shark": {
+    "pickaxePower": 100,
+    "toolSpeed": 18
+  },
+  "Red Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Red Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Rich Mahogany Sword": {
+    "useTime": 23,
+    "knockback": 5
+  },
+  "Rocket I": {
+    "damage": 35
+  },
+  "Rocket III": {
+    "damage": 55
+  },
+  "Rocket IV": {
+    "damage": 69
+  },
+  "Rocket Launcher": {
+    "damage": 50
+  },
+  "Rotten Egg": {
+    "damage": 10
+  },
+  "Sapphire Staff": {
+    "damage": 17,
+    "manaCost": 5
+  },
+  "Scourge of the Corruptor": {
+    "damage": 57
+  },
+  "Shadewood Sword": {
+    "damage": 10,
+    "useTime": 23,
+    "knockback": 5
+  },
+  "Shadowbeam Staff": {
+    "damage": 53,
+    "useTime": 16
+  },
+  "Shotgun": {
+    "damage": 23
+  },
+  "Shuriken": {
+    "sellValue": 4,
+    "buyValue": 20
+  },
+  "Silver Broadsword": {
+    "damage": 11,
+    "useTime": 21,
+    "knockback": 5
+  },
+  "Sniper Rifle": {
+    "damage": 128,
+    "useTime": 49,
+    "critChance": 19
+  },
+  "Snowball": {
+    "damage": 4,
+    "knockback": 4.5
+  },
+  "Snowball Cannon": {
+    "damage": 5
+  },
+  "Spectre Pickaxe": {
+    "toolSpeed": 10
+  },
+  "Spectre Staff": {
+    "damage": 68,
+    "manaCost": 11
+  },
+  "Spiky Ball": {
+    "damage": 15
+  },
+  "Staff of Earth": {
+    "damage": 45,
+    "useTime": 40,
+    "critChance": 4,
+    "manaCost": 17
+  },
+  "Stake Launcher": {
+    "useTime": 26
+  },
+  "Star Cannon": {
+    "damage": 62,
+    "knockback": 0
+  },
+  "Starfury": {
+    "damage": 22
+  },
+  "Sticky Bomb": {
+    "maxStack": 50
+  },
+  "Stynger": {
+    "damage": 43
+  },
+  "Sunfury": {
+    "damage": 33,
+    "knockback": 7,
+    "critChance": 4
+  },
+  "Swordfish": {
+    "damage": 16
+  },
+  "Terra Blade": {
+    "damage": 88,
+    "useTime": 16
+  },
+  "The Axe": {
+    "toolSpeed": 6
+  },
+  "The Horseman's Blade": {
+    "damage": 75
+  },
+  "The Meatball": {
+    "damage": 16
+  },
+  "The Rotted Fork": {
+    "damage": 14,
+    "sellValue": 2000
+  },
+  "The Undertaker": {
+    "damage": 15,
+    "useTime": 23,
+    "knockback": 1,
+    "sellValue": 10000
+  },
+  "Tin Broadsword": {
+    "damage": 9,
+    "useTime": 22
+  },
+  "Titanium Drill": {
+    "knockback": 0
+  },
+  "Titanium Repeater": {
+    "damage": 41,
+    "useTime": 19
+  },
+  "Titanium Sword": {
+    "damage": 46,
+    "useTime": 26
+  },
+  "Titanium Trident": {
+    "damage": 40
+  },
+  "Topaz Staff": {
+    "damage": 15,
+    "useTime": 38,
+    "manaCost": 4
+  },
+  "Trident": {
+    "damage": 10,
+    "knockback": 5
+  },
+  "True Excalibur": {
+    "damage": 60,
+    "useTime": 16
+  },
+  "True Night's Edge": {
+    "damage": 78,
+    "useTime": 24
+  },
+  "Tsunami": {
+    "damage": 60
+  },
+  "Tungsten Broadsword": {
+    "damage": 12,
+    "useTime": 20,
+    "knockback": 5
+  },
+  "Unholy Arrow": {
+    "damage": 8
+  },
+  "Unholy Trident": {
+    "damage": 63,
+    "manaCost": 14
+  },
+  "Uzi": {
+    "sellValue": 10000
+  },
+  "Venom Arrow": {
+    "damage": 17
+  },
+  "Venom Bullet": {
+    "damage": 14
+  },
+  "Venus Magnum": {
+    "damage": 36
+  },
+  "Vilethorn": {
+    "sellValue": 2000
+  },
+  "Volcano": {
+    "damage": 36,
+    "useTime": 34
+  },
+  "Wasp Gun": {
+    "damage": 19,
+    "useTime": 11,
+    "knockback": 0,
+    "manaCost": 6
+  },
+  "Water Bolt": {
+    "damage": 17
+  },
+  "White Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "White Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Wooden Arrow": {
+    "damage": 4,
+    "sellValue": 2
+  },
+  "Wooden Boomerang": {
+    "damage": 7,
+    "useTime": 16
+  },
+  "Wooden Sword": {
+    "useTime": 25,
+    "knockback": 4
+  },
+  "Yellow Phaseblade": {
+    "damage": 21,
+    "useTime": 25
+  },
+  "Yellow Phasesaber": {
+    "damage": 41,
+    "useTime": 25
+  },
+  "Zombie Arm": {
+    "damage": 12,
+    "useTime": 23,
+    "knockback": 4.25
+  }
+}
