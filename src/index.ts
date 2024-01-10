@@ -6,7 +6,9 @@ import * as mobileWeapons from './data/weapons/mobile.json';
 import * as oldGenWeapons from './data/weapons/oldGen.json';
 import * as pcWeapons from './data/weapons/pc.json';
 import * as threeDSWeapons from './data/weapons/threeDS.json';
-import {ItemMetaInfo, NameMapping, Prefix, WeaponData} from './types';
+import {ItemMetaInfo, NameMapping, Prefix, WeaponData} from './typings/types';
+
+export * from './typings/types';
 
 export const WEAPONS: WeaponData = {
   meta: weaponsMeta as NameMapping<ItemMetaInfo>,
