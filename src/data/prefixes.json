@@ -1,152 +1,171 @@
 [
   {
     "name": "Hard",
-    "value": 10.25,
+    "value": 1,
     "tier": 1,
+    "coinValue": 10.25,
     "type": "accessory",
     "effect": "defense",
     "id": 62
   },
   {
     "name": "Guarding",
-    "value": 21,
+    "value": 2,
     "tier": 1,
+    "coinValue": 21,
     "type": "accessory",
     "effect": "defense",
     "id": 63
   },
   {
     "name": "Armored",
-    "value": 32.25,
+    "value": 3,
     "tier": 1,
+    "coinValue": 32.25,
     "type": "accessory",
     "effect": "defense",
     "id": 64
   },
   {
     "name": "Warding",
-    "value": 44,
+    "value": 4,
     "tier": 2,
+    "coinValue": 44,
     "type": "accessory",
     "effect": "defense",
     "id": 65
   },
   {
     "name": "Precise",
-    "value": 21,
+    "value": 2,
     "tier": 1,
+    "coinValue": 21,
     "type": "accessory",
     "effect": "critChance",
     "id": 67
   },
   {
     "name": "Lucky",
-    "value": 44,
+    "value": 4,
     "tier": 2,
+    "coinValue": 44,
     "type": "accessory",
     "effect": "critChance",
     "id": 68
   },
   {
     "name": "Jagged",
-    "value": 10.25,
+    "value": 1,
     "tier": 1,
+    "coinValue": 10.25,
     "type": "accessory",
     "effect": "damage",
     "id": 69
   },
   {
     "name": "Spiked",
-    "value": 21,
+    "value": 2,
     "tier": 1,
+    "coinValue": 21,
     "type": "accessory",
     "effect": "damage",
     "id": 70
   },
   {
     "name": "Angry",
-    "value": 32.25,
+    "value": 3,
     "tier": 1,
+    "coinValue": 32.25,
     "type": "accessory",
     "effect": "damage",
     "id": 71
   },
   {
     "name": "Menacing",
-    "value": 44,
+    "value": 4,
     "tier": 2,
+    "coinValue": 44,
     "type": "accessory",
     "effect": "damage",
     "id": 72
   },
   {
     "name": "Brisk",
-    "value": 10.25,
+    "value": 1,
     "tier": 1,
+    "coinValue": 10.25,
     "type": "accessory",
     "effect": "moveSpeed",
     "id": 73
   },
   {
     "name": "Fleeting",
-    "value": 21,
+    "value": 2,
     "tier": 1,
+    "coinValue": 21,
     "type": "accessory",
     "effect": "moveSpeed",
     "id": 74
   },
   {
     "name": "Hasty",
-    "value": 32.25,
+    "value": 3,
     "tier": 1,
+    "coinValue": 32.25,
     "type": "accessory",
     "effect": "moveSpeed",
     "id": 75
   },
   {
     "name": "Quick",
-    "value": 44,
+    "value": 4,
     "tier": 2,
+    "coinValue": 44,
     "type": "accessory",
     "effect": "moveSpeed",
     "id": 76
   },
   {
     "name": "Wild",
-    "value": 10.25,
+    "value": 1,
     "tier": 1,
+    "coinValue": 10.25,
     "type": "accessory",
     "effect": "meleeSpeed",
     "id": 77
   },
   {
     "name": "Rash",
-    "value": 21,
+    "value": 2,
     "tier": 1,
+    "coinValue": 21,
     "type": "accessory",
     "effect": "meleeSpeed",
     "id": 78
   },
   {
     "name": "Intrepid",
-    "value": 32.25,
+    "value": 3,
     "tier": 1,
+    "coinValue": 32.25,
     "type": "accessory",
     "effect": "meleeSpeed",
     "id": 79
   },
   {
     "name": "Violent",
-    "value": 44,
+    "value": 4,
     "tier": 2,
+    "coinValue": 44,
     "type": "accessory",
     "effect": "meleeSpeed",
     "id": 80
   },
   {
     "name": "Arcane",
-    "value": 32.25,
+    "value": 20,
     "tier": 1,
+    "coinValue": 32.25,
     "type": "accessory",
     "effect": "mana",
     "id": 66
@@ -155,7 +174,7 @@
     "name": "Keen",
     "critChance": 3,
     "tier": 1,
-    "value": 12.36,
+    "coinValue": 12.36,
     "group": "universal",
     "type": "weapon",
     "id": 36
@@ -166,7 +185,7 @@
     "critChance": 3,
     "knockback": 10,
     "tier": 2,
-    "value": 64.51,
+    "coinValue": 64.51,
     "group": "universal",
     "type": "weapon",
     "id": 37
@@ -175,7 +194,7 @@
     "name": "Forceful",
     "knockback": 15,
     "tier": 1,
-    "value": 32.25,
+    "coinValue": 32.25,
     "group": "universal",
     "type": "weapon",
     "id": 38
@@ -185,7 +204,7 @@
     "damage": -30,
     "knockback": -20,
     "tier": -2,
-    "value": -68.64,
+    "coinValue": -68.64,
     "group": "universal",
     "type": "weapon",
     "id": 39
@@ -194,7 +213,7 @@
     "name": "Damaged",
     "damage": -15,
     "tier": -1,
-    "value": -27.75,
+    "coinValue": -27.75,
     "group": "universal",
     "type": "weapon",
     "id": 40
@@ -204,7 +223,7 @@
     "damage": -10,
     "knockback": -15,
     "tier": -2,
-    "value": -41.48,
+    "coinValue": -41.48,
     "group": "universal",
     "type": "weapon",
     "id": 41
@@ -213,7 +232,7 @@
     "name": "Hurtful",
     "damage": 10,
     "tier": 1,
-    "value": 21,
+    "coinValue": 21,
     "group": "universal",
     "type": "weapon",
     "id": 53
@@ -222,7 +241,7 @@
     "name": "Strong",
     "knockback": 15,
     "tier": 1,
-    "value": 32.25,
+    "coinValue": 32.25,
     "group": "universal",
     "type": "weapon",
     "id": 54
@@ -232,7 +251,7 @@
     "damage": 5,
     "knockback": 15,
     "tier": 2,
-    "value": 45.81,
+    "coinValue": 45.81,
     "group": "universal",
     "type": "weapon",
     "id": 55
@@ -241,7 +260,7 @@
     "name": "Weak",
     "knockback": -20,
     "tier": -2,
-    "value": -36,
+    "coinValue": -36,
     "group": "universal",
     "type": "weapon",
     "id": 56
@@ -251,7 +270,7 @@
     "damage": 18,
     "knockback": -10,
     "tier": 1,
-    "value": 12.78,
+    "coinValue": 12.78,
     "group": "universal",
     "type": "weapon",
     "id": 57
@@ -262,7 +281,7 @@
     "critChance": 5,
     "knockback": 15,
     "tier": 2,
-    "value": 111.63,
+    "coinValue": 111.63,
     "group": "universal",
     "type": "weapon",
     "id": 59
@@ -272,7 +291,7 @@
     "damage": 15,
     "critChance": 5,
     "tier": 2,
-    "value": 60.02,
+    "coinValue": 60.02,
     "group": "universal",
     "type": "weapon",
     "id": 60
@@ -281,7 +300,7 @@
     "name": "Zealous",
     "critChance": 5,
     "tier": 1,
-    "value": 21,
+    "coinValue": 21,
     "group": "universal",
     "type": "weapon",
     "id": 61
@@ -290,7 +309,7 @@
     "name": "Quick",
     "speed": 10,
     "tier": 1,
-    "value": 21,
+    "coinValue": 21,
     "group": "common",
     "type": "weapon",
     "id": 76
@@ -300,7 +319,7 @@
     "damage": 10,
     "speed": 10,
     "tier": 2,
-    "value": 46.41,
+    "coinValue": 46.41,
     "group": "common",
     "type": "weapon",
     "id": 43
@@ -310,7 +329,7 @@
     "speed": 10,
     "critChance": 3,
     "tier": 1,
-    "value": 35.96,
+    "coinValue": 35.96,
     "group": "common",
     "type": "weapon",
     "id": 44
@@ -319,7 +338,7 @@
     "name": "Nimble",
     "speed": 5,
     "tier": 1,
-    "value": 10.25,
+    "coinValue": 10.25,
     "group": "common",
     "type": "weapon",
     "id": 45
@@ -330,7 +349,7 @@
     "speed": 6,
     "critChance": 3,
     "tier": 2,
-    "value": 44.54,
+    "coinValue": 44.54,
     "group": "common",
     "type": "weapon",
     "id": 46
@@ -339,7 +358,7 @@
     "name": "Slow",
     "speed": -15,
     "tier": -1,
-    "value": -27.75,
+    "coinValue": -27.75,
     "group": "common",
     "type": "weapon",
     "id": 47
@@ -348,7 +367,7 @@
     "name": "Sluggish",
     "speed": -20,
     "tier": -2,
-    "value": -36,
+    "coinValue": -36,
     "group": "common",
     "type": "weapon",
     "id": 48
@@ -357,7 +376,7 @@
     "name": "Lazy",
     "speed": -8,
     "tier": -1,
-    "value": -15.36,
+    "coinValue": -15.36,
     "group": "common",
     "type": "weapon",
     "id": 49
@@ -367,7 +386,7 @@
     "damage": -20,
     "speed": -15,
     "tier": -2,
-    "value": -53.76,
+    "coinValue": -53.76,
     "group": "common",
     "type": "weapon",
     "id": 50
@@ -379,7 +398,7 @@
     "critChance": 2,
     "knockback": -10,
     "tier": 1,
-    "value": 16.87,
+    "coinValue": 16.87,
     "group": "common",
     "type": "weapon",
     "id": 51
@@ -388,7 +407,7 @@
     "name": "Large",
     "size": 12,
     "tier": 1,
-    "value": 25.44,
+    "coinValue": 25.44,
     "group": "melee",
     "type": "weapon",
     "id": 1
@@ -397,7 +416,7 @@
     "name": "Massive",
     "size": 18,
     "tier": 1,
-    "value": 39.24,
+    "coinValue": 39.24,
     "group": "melee",
     "type": "weapon",
     "id": 2
@@ -408,7 +427,7 @@
     "critChance": 2,
     "size": 5,
     "tier": 1,
-    "value": 31.47,
+    "coinValue": 31.47,
     "group": "melee",
     "type": "weapon",
     "id": 3
@@ -419,7 +438,7 @@
     "size": 10,
     "knockback": 10,
     "tier": 2,
-    "value": 77.16,
+    "coinValue": 77.16,
     "group": "melee",
     "type": "weapon",
     "id": 4
@@ -428,7 +447,7 @@
     "name": "Sharp",
     "damage": 15,
     "tier": 1,
-    "value": 32.25,
+    "coinValue": 32.25,
     "group": "melee",
     "type": "weapon",
     "id": 5
@@ -437,7 +456,7 @@
     "name": "Pointy",
     "damage": 10,
     "tier": 1,
-    "value": 21,
+    "coinValue": 21,
     "group": "melee",
     "type": "weapon",
     "id": 6
@@ -446,7 +465,7 @@
     "name": "Tiny",
     "size": -18,
     "tier": -1,
-    "value": -32.76,
+    "coinValue": -32.76,
     "group": "melee",
     "type": "weapon",
     "id": 7
@@ -457,7 +476,7 @@
     "size": -13,
     "knockback": -15,
     "tier": -2,
-    "value": -60.49,
+    "coinValue": -60.49,
     "group": "melee",
     "type": "weapon",
     "id": 8
@@ -466,7 +485,7 @@
     "name": "Small",
     "size": -10,
     "tier": -1,
-    "value": -19,
+    "coinValue": -19,
     "group": "melee",
     "type": "weapon",
     "id": 9
@@ -475,7 +494,7 @@
     "name": "Dull",
     "damage": -15,
     "tier": -1,
-    "value": -27.75,
+    "coinValue": -27.75,
     "group": "melee",
     "type": "weapon",
     "id": 10
@@ -486,7 +505,7 @@
     "size": -10,
     "knockback": -10,
     "tier": -2,
-    "value": -46.86,
+    "coinValue": -46.86,
     "group": "melee",
     "type": "weapon",
     "id": 11
@@ -498,7 +517,7 @@
     "size": 10,
     "knockback": 10,
     "tier": 1,
-    "value": 16.62,
+    "coinValue": 16.62,
     "group": "melee",
     "type": "weapon",
     "id": 12
@@ -509,7 +528,7 @@
     "size": 10,
     "knockback": -20,
     "tier": -2,
-    "value": -37.27,
+    "coinValue": -37.27,
     "group": "melee",
     "type": "weapon",
     "id": 13
@@ -518,7 +537,7 @@
     "name": "Heavy",
     "speed": -10,
     "knockback": 15,
-    "value": 7.12,
+    "coinValue": 7.12,
     "group": "melee",
     "type": "weapon",
     "id": 14
@@ -527,7 +546,7 @@
     "name": "Light",
     "speed": 15,
     "knockback": -10,
-    "value": 7.12,
+    "coinValue": 7.12,
     "group": "melee",
     "type": "weapon",
     "id": 15
@@ -540,7 +559,7 @@
     "size": 10,
     "knockback": 15,
     "tier": 2,
-    "value": 209.85,
+    "coinValue": 209.85,
     "group": "melee",
     "type": "weapon",
     "id": 81
@@ -550,7 +569,7 @@
     "damage": 10,
     "critChance": 3,
     "tier": 1,
-    "value": 35.96,
+    "coinValue": 35.96,
     "group": "ranged",
     "type": "weapon",
     "id": 16
@@ -560,7 +579,7 @@
     "speed": 15,
     "velocity": 10,
     "tier": 2,
-    "value": 60.02,
+    "coinValue": 60.02,
     "group": "ranged",
     "type": "weapon",
     "id": 17
@@ -570,7 +589,7 @@
     "speed": 10,
     "velocity": 15,
     "tier": 2,
-    "value": 60.02,
+    "coinValue": 60.02,
     "group": "ranged",
     "type": "weapon",
     "id": 75
@@ -580,7 +599,7 @@
     "velocity": 5,
     "knockback": 15,
     "tier": 2,
-    "value": 45.81,
+    "coinValue": 45.81,
     "group": "ranged",
     "type": "weapon",
     "id": 19
@@ -593,7 +612,7 @@
     "velocity": 5,
     "knockback": 5,
     "tier": 2,
-    "value": 75.38,
+    "coinValue": 75.38,
     "group": "ranged",
     "type": "weapon",
     "id": 20
@@ -603,7 +622,7 @@
     "damage": 10,
     "knockback": 15,
     "tier": 2,
-    "value": 60.02,
+    "coinValue": 60.02,
     "group": "ranged",
     "type": "weapon",
     "id": 21
@@ -614,7 +633,7 @@
     "velocity": -10,
     "knockback": -10,
     "tier": -2,
-    "value": -52.6,
+    "coinValue": -52.6,
     "group": "ranged",
     "type": "weapon",
     "id": 22
@@ -624,7 +643,7 @@
     "speed": -15,
     "velocity": -10,
     "tier": -2,
-    "value": -41.48,
+    "coinValue": -41.48,
     "group": "ranged",
     "type": "weapon",
     "id": 23
@@ -634,7 +653,7 @@
     "speed": -10,
     "knockback": -20,
     "tier": -2,
-    "value": -48.16,
+    "coinValue": -48.16,
     "group": "ranged",
     "type": "weapon",
     "id": 24
@@ -645,7 +664,7 @@
     "speed": -10,
     "critChance": 1,
     "tier": 1,
-    "value": 11.45,
+    "coinValue": 11.45,
     "group": "ranged",
     "type": "weapon",
     "id": 25
@@ -654,7 +673,7 @@
     "name": "Frenzying",
     "damage": -15,
     "speed": 15,
-    "value": -4.45,
+    "coinValue": -4.45,
     "group": "ranged",
     "type": "weapon",
     "id": 58
@@ -667,7 +686,7 @@
     "velocity": 10,
     "knockback": 15,
     "tier": 2,
-    "value": 209.85,
+    "coinValue": 209.85,
     "group": "ranged",
     "type": "weapon",
     "id": 82
@@ -677,7 +696,7 @@
     "damage": 10,
     "manaCost": -15,
     "tier": 2,
-    "value": 60.02,
+    "coinValue": 60.02,
     "group": "magic",
     "type": "weapon",
     "id": 26
@@ -686,7 +705,7 @@
     "name": "Adept",
     "manaCost": -15,
     "tier": 1,
-    "value": 32.25,
+    "coinValue": 32.25,
     "group": "magic",
     "type": "weapon",
     "id": 27
@@ -697,7 +716,7 @@
     "manaCost": -15,
     "knockback": 5,
     "tier": 2,
-    "value": 92.83,
+    "coinValue": 92.83,
     "group": "magic",
     "type": "weapon",
     "id": 28
@@ -706,7 +725,7 @@
     "name": "Inept",
     "manaCost": 10,
     "tier": -1,
-    "value": -19,
+    "coinValue": -19,
     "group": "magic",
     "type": "weapon",
     "id": 29
@@ -716,7 +735,7 @@
     "damage": -10,
     "manaCost": 20,
     "tier": -2,
-    "value": -48.16,
+    "coinValue": -48.16,
     "group": "magic",
     "type": "weapon",
     "id": 30
@@ -726,7 +745,7 @@
     "damage": -10,
     "knockback": -10,
     "tier": -1,
-    "value": -34.39,
+    "coinValue": -34.39,
     "group": "magic",
     "type": "weapon",
     "id": 31
@@ -736,7 +755,7 @@
     "damage": 10,
     "manaCost": 15,
     "tier": -1,
-    "value": -12.58,
+    "coinValue": -12.58,
     "group": "magic",
     "type": "weapon",
     "id": 32
@@ -747,7 +766,7 @@
     "manaCost": 10,
     "knockback": 10,
     "tier": 1,
-    "value": 18.59,
+    "coinValue": 18.59,
     "group": "magic",
     "type": "weapon",
     "id": 33
@@ -759,7 +778,7 @@
     "manaCost": -10,
     "knockback": 10,
     "tier": 1,
-    "value": 43.5,
+    "coinValue": 43.5,
     "group": "magic",
     "type": "weapon",
     "id": 34
@@ -770,7 +789,7 @@
     "manaCost": 20,
     "knockback": 15,
     "tier": 1,
-    "value": 11.94,
+    "coinValue": 11.94,
     "group": "magic",
     "type": "weapon",
     "id": 35
@@ -781,7 +800,7 @@
     "speed": 10,
     "manaCost": -10,
     "tier": 1,
-    "value": 18.59,
+    "coinValue": 18.59,
     "group": "magic",
     "type": "weapon",
     "id": 52
@@ -794,7 +813,7 @@
     "manaCost": -10,
     "knockback": 15,
     "tier": 2,
-    "value": 209.85,
+    "coinValue": 209.85,
     "group": "magic",
     "type": "weapon",
     "id": 83
@@ -804,7 +823,7 @@
     "name": "Legendary",
     "type": "weapon",
     "tier": 2,
-    "value": 209.85,
+    "coinValue": 209.85,
     "group": "melee",
     "damage": 17,
     "critChance": 8,
